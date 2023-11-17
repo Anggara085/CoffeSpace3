@@ -1,565 +1,335 @@
-import React, {Fragment} from 'react';
-import Menu from './Menu';
+import React, { Fragment } from "react";
+import Menu from "./Menu";
 
-function About(){
-    return(
-        <Fragment>
-                <>
-        
+function About() {
+  return (
+    <Fragment>
+      <>
         {/* Header Start */}
-       <Menu />
+        <Menu />
         {/* Header End */}
         <main>
-            {/*? slider Area Start*/}
-            <section className="slider-area slider-area2">
+          {/*? slider Area Start*/}
+          <section className="slider-area slider-area2">
             <div className="slider-active">
-                {/* Single Slider */}
-                <div className="single-slider slider-height2">
+              {/* Single Slider */}
+              <div className="single-slider slider-height2">
                 <div className="container">
-                    <div className="row">
+                  <div className="row">
                     <div className="col-xl-8 col-lg-11 col-md-12">
-                        <div className="hero__caption hero__caption2">
-                        <h1 data-animation="bounceIn" data-delay="0.2s">
-                            Tentang Kami
+                      <div className="hero__caption hero__caption2">
+                        <h1
+                          className="Tentang Kami text-left"
+                          data-animation="bounceIn"
+                          data-delay="0.2s"
+                        >
+                          Tentang Kami
                         </h1>
                         {/* breadcrumb Start*/}
                         <nav aria-label="breadcrumb">
-                            <ol className="breadcrumb">
+                          <ol className="breadcrumb">
                             <li className="breadcrumb-item">
-                                <a href="index.html">Home</a>
+                              <a href="index.html">Home</a>
                             </li>
                             <li className="breadcrumb-item">
-                                <a href="#">about</a>
+                              <a href="#">about</a>
                             </li>
-                            </ol>
+                          </ol>
                         </nav>
                         {/* breadcrumb End */}
-                        </div>
+                      </div>
                     </div>
-                    </div>
+                  </div>
                 </div>
-                </div>
+              </div>
             </div>
-            </section>
-            <div className="services-area services-area2 section-padding40">
+          </section>
+
+          <section className="sample-text-area">
+            <div className="container box_1170">
+              <h3 className="text-heading">Apa sih coffee space itu?</h3>
+              <p className="sample-text">
+                Coffee Space adalah Sebuah platform untuk edukasi kopi
+                menyediakan berbagai informasi. Mulai dari pengenalan sejarah
+                kopi, ragam jenis kopi dan juga bisa jadi platform untuk
+                membantu individu maupun komunitas belajar tentang berbagai
+                aspek kopi, mulai dari budidaya hingga pembuatan kopi.
+              </p>
+            </div>
+          </section>
+
+          <div className="services-area services-area2 ">
+            <h3 className="text-heading">Mengapa Memilih Kami</h3>
             <div className="container">
-                <div className="row justify-content-sm-center">
+              <div className="row justify-content-sm-center">
                 <div className="col-lg-4 col-md-6 col-sm-8">
-                    <div className="single-services mb-30">
+                  <div className="single-services mb-30">
                     <div className="features-icon">
-                        <img src="assets/img/icon/icon1.svg" alt="" />
+                      <img src="assets/img/icon/icon1.svg" alt="" />
                     </div>
                     <div className="features-caption">
-                        <h3>60+ UX courses</h3>
-                        <p>The automated process all your website tasks.</p>
+                      <h3>60+ UX courses</h3>
+                      <p>The automated process all your website tasks.</p>
                     </div>
-                    </div>
+                  </div>
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-8">
-                    <div className="single-services mb-30">
+                  <div className="single-services mb-30">
                     <div className="features-icon">
-                        <img src="assets/img/icon/icon2.svg" alt="" />
+                      <img src="assets/img/icon/icon2.svg" alt="" />
                     </div>
                     <div className="features-caption">
-                        <h3>Expert instructors</h3>
-                        <p>The automated process all your website tasks.</p>
+                      <h3>Expert instructors</h3>
+                      <p>The automated process all your website tasks.</p>
                     </div>
-                    </div>
+                  </div>
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-8">
-                    <div className="single-services mb-30">
+                  <div className="single-services mb-30">
                     <div className="features-icon">
-                        <img src="assets/img/icon/icon3.svg" alt="" />
+                      <img src="assets/img/icon/icon3.svg" alt="" />
                     </div>
                     <div className="features-caption">
-                        <h3>Life time access</h3>
-                        <p>The automated process all your website tasks.</p>
+                      <h3>Life time access</h3>
+                      <p>The automated process all your website tasks.</p>
                     </div>
-                    </div>
+                  </div>
                 </div>
-                </div>
+              </div>
             </div>
-            </div>
-            {/*? About Area-1 Start */}
-            <section className="about-area1 fix pt-10">
-            <div className="support-wrapper align-items-center">
-                <div className="left-content1">
-                <div className="about-icon">
-                    <img src="assets/img/icon/about.svg" alt="" />
+          </div>
+
+          <section className="section-top-border">
+            <h3 className="mb-30">VISI DAN MISI</h3>
+            <div className="row">
+              <div className="col-md-4">
+                <div className="single-defination">
+                  <h4 className="mb-20">Definition 01</h4>
+                  <p>
+                    Recently, the US Federal government banned online casinos
+                    from operating in America by making it illegal to transfer
+                    money to them through any US bank or payment system. As a
+                    result of this law, most of the popular online casino
+                    networks
+                  </p>
                 </div>
-                {/* section tittle */}
-                <div className="section-tittle section-tittle2 mb-55">
+              </div>
+              <div className="col-md-4">
+                <div className="single-defination">
+                  <h4 className="mb-20">Definition 02</h4>
+                  <p>
+                    Recently, the US Federal government banned online casinos
+                    from operating in America by making it illegal to transfer
+                    money to them through any US bank or payment system. As a
+                    result of this law, most of the popular online casino
+                    networks
+                  </p>
+                </div>
+              </div>
+              <div className="col-md-4">
+                <div className="single-defination">
+                  <h4 className="mb-20">Definition 03</h4>
+                  <p>
+                    Recently, the US Federal government banned online casinos
+                    from operating in America by making it illegal to transfer
+                    money to them through any US bank or payment system. As a
+                    result of this law, most of the popular online casino
+                    networks
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <>
+            {/*? About Area-2 Start */}
+            <section className="about-area2 fix pb-padding ">
+              <div className="support-wrapper align-items-center">
+                <div className="right-content2">
+                  {/* img */}
+                  <div className="right-img">
+                    <img src="assets/img/gallery/about2.png" alt="" />
+                  </div>
+                </div>
+                <div className="left-content2">
+                  {/* section tittle */}
+                  <div className="section-tittle section-tittle2 mb-20">
                     <div className="front-text">
-                    <h2 className="">Learn new skills online with top educators</h2>
-                    <p>
-                        The automated process all your website tasks. Discover tools and
-                        techniques to engage effectively with vulnerable children and
-                        young people.
-                    </p>
+                      <h2 className="">
+                        Take the next step toward your personal and professional
+                        goals with us.
+                      </h2>
+                      <p>
+                        The automated process all your website tasks. Discover
+                        tools and techniques to engage effectively with
+                        vulnerable children and young people.
+                      </p>
+                      <a href="register.html" className="btn">
+                        Join now for Free
+                      </a>
                     </div>
+                  </div>
                 </div>
-                <div className="single-features">
-                    <div className="features-icon">
-                    <img src="assets/img/icon/right-icon.svg" alt="" />
-                    </div>
-                    <div className="features-caption">
-                    <p>
-                        Techniques to engage effectively with vulnerable children and
-                        young people.
-                    </p>
-                    </div>
-                </div>
-                <div className="single-features">
-                    <div className="features-icon">
-                    <img src="assets/img/icon/right-icon.svg" alt="" />
-                    </div>
-                    <div className="features-caption">
-                    <p>
-                        Join millions of people from around the world learning together.
-                    </p>
-                    </div>
-                </div>
-                <div className="single-features">
-                    <div className="features-icon">
-                    <img src="assets/img/icon/right-icon.svg" alt="" />
-                    </div>
-                    <div className="features-caption">
-                    <p>
-                        Join millions of people from around the world learning together.
-                        Online learning is as easy and natural.
-                    </p>
-                    </div>
-                </div>
-                </div>
-                <div className="right-content1">
-                {/* img */}
-                <div className="right-img">
-                    <img src="assets/img/gallery/about.png" alt="" />
-                    <div className="video-icon">
-                    <a
-                        className="popup-video btn-icon"
-                        href="https://www.youtube.com/watch?v=lAd3LYIZMjs"
-                    >
-                        <i className="fas fa-play" />
-                    </a>
-                    </div>
-                </div>
-                </div>
-            </div>
+              </div>
             </section>
             {/* About Area End */}
-            {/*? top subjects Area Start */}
-            <div className="topic-area section-padding40">
-            <div className="container">
-                <div className="row justify-content-center">
-                <div className="col-xl-7 col-lg-8">
-                    <div className="section-tittle text-center mb-55">
-                    <h2>Explore top subjects</h2>
-                    </div>
-                </div>
-                </div>
-                <div className="row">
-                <div className="col-lg-3 col-md-4 col-sm-6">
-                    <div className="single-topic text-center mb-30">
-                    <div className="topic-img">
-                        <img src="assets/img/gallery/topic1.png" alt="" />
-                        <div className="topic-content-box">
-                        <div className="topic-content">
-                            <h3>
-                            <a href="#">Programing</a>
-                            </h3>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-4 col-sm-6">
-                    <div className="single-topic text-center mb-30">
-                    <div className="topic-img">
-                        <img src="assets/img/gallery/topic2.png" alt="" />
-                        <div className="topic-content-box">
-                        <div className="topic-content">
-                            <h3>
-                            <a href="#">Programing</a>
-                            </h3>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-4 col-sm-6">
-                    <div className="single-topic text-center mb-30">
-                    <div className="topic-img">
-                        <img src="assets/img/gallery/topic3.png" alt="" />
-                        <div className="topic-content-box">
-                        <div className="topic-content">
-                            <h3>
-                            <a href="#">Programing</a>
-                            </h3>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-4 col-sm-6">
-                    <div className="single-topic text-center mb-30">
-                    <div className="topic-img">
-                        <img src="assets/img/gallery/topic4.png" alt="" />
-                        <div className="topic-content-box">
-                        <div className="topic-content">
-                            <h3>
-                            <a href="#">Programing</a>
-                            </h3>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-4 col-sm-6">
-                    <div className="single-topic text-center mb-30">
-                    <div className="topic-img">
-                        <img src="assets/img/gallery/topic5.png" alt="" />
-                        <div className="topic-content-box">
-                        <div className="topic-content">
-                            <h3>
-                            <a href="#">Programing</a>
-                            </h3>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-4 col-sm-6">
-                    <div className="single-topic text-center mb-30">
-                    <div className="topic-img">
-                        <img src="assets/img/gallery/topic6.png" alt="" />
-                        <div className="topic-content-box">
-                        <div className="topic-content">
-                            <h3>
-                            <a href="#">Programing</a>
-                            </h3>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-4 col-sm-6">
-                    <div className="single-topic text-center mb-30">
-                    <div className="topic-img">
-                        <img src="assets/img/gallery/topic7.png" alt="" />
-                        <div className="topic-content-box">
-                        <div className="topic-content">
-                            <h3>
-                            <a href="#">Programing</a>
-                            </h3>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                <div className="col-lg-3 col-md-4 col-sm-6">
-                    <div className="single-topic text-center mb-30">
-                    <div className="topic-img">
-                        <img src="assets/img/gallery/topic8.png" alt="" />
-                        <div className="topic-content-box">
-                        <div className="topic-content">
-                            <h3>
-                            <a href="#">Programing</a>
-                            </h3>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                </div>
-                <div className="row justify-content-center">
-                <div className="col-xl-12">
-                    <div className="section-tittle text-center mt-20">
-                    <a href="courses.html" className="border-btn">
-                        View More Subjects
-                    </a>
-                    </div>
-                </div>
-                </div>
-            </div>
-            </div>
-            {/* top subjects End */}
-            {/*? About Area-3 Start */}
-            <section className="about-area3 fix">
-            <div className="support-wrapper align-items-center">
-                <div className="right-content3">
-                {/* img */}
-                <div className="right-img">
-                    <img src="assets/img/gallery/about3.png" alt="" />
-                </div>
-                </div>
-                <div className="left-content3">
-                {/* section tittle */}
-                <div className="section-tittle section-tittle2 mb-20">
-                    <div className="front-text">
-                    <h2 className="">Learner outcomes on courses you will take</h2>
-                    </div>
-                </div>
-                <div className="single-features">
-                    <div className="features-icon">
-                    <img src="assets/img/icon/right-icon.svg" alt="" />
-                    </div>
-                    <div className="features-caption">
-                    <p>
-                        Techniques to engage effectively with vulnerable children and
-                        young people.
-                    </p>
-                    </div>
-                </div>
-                <div className="single-features">
-                    <div className="features-icon">
-                    <img src="assets/img/icon/right-icon.svg" alt="" />
-                    </div>
-                    <div className="features-caption">
-                    <p>
-                        Join millions of people from around the world learning together.
-                    </p>
-                    </div>
-                </div>
-                <div className="single-features">
-                    <div className="features-icon">
-                    <img src="assets/img/icon/right-icon.svg" alt="" />
-                    </div>
-                    <div className="features-caption">
-                    <p>
-                        Join millions of people from around the world learning together.
-                        Online learning is as easy and natural.
-                    </p>
-                    </div>
-                </div>
-                </div>
-            </div>
-            </section>
-            {/* About Area End */}
-            {/*? Team */}
-            <section className="team-area section-padding40 fix">
-            <div className="container">
-                <div className="row justify-content-center">
-                <div className="col-xl-7 col-lg-8">
-                    <div className="section-tittle text-center mb-55">
-                    <h2>Community experts</h2>
-                    </div>
-                </div>
-                </div>
-                <div className="team-active">
-                <div className="single-cat text-center">
-                    <div className="cat-icon">
-                    <img src="assets/img/gallery/team1.png" alt="" />
-                    </div>
-                    <div className="cat-cap">
-                    <h5>
-                        <a href="services.html">Mr. Urela</a>
-                    </h5>
-                    <p>The automated process all your website tasks.</p>
-                    </div>
-                </div>
-                <div className="single-cat text-center">
-                    <div className="cat-icon">
-                    <img src="assets/img/gallery/team2.png" alt="" />
-                    </div>
-                    <div className="cat-cap">
-                    <h5>
-                        <a href="services.html">Mr. Uttom</a>
-                    </h5>
-                    <p>The automated process all your website tasks.</p>
-                    </div>
-                </div>
-                <div className="single-cat text-center">
-                    <div className="cat-icon">
-                    <img src="assets/img/gallery/team3.png" alt="" />
-                    </div>
-                    <div className="cat-cap">
-                    <h5>
-                        <a href="services.html">Mr. Shakil</a>
-                    </h5>
-                    <p>The automated process all your website tasks.</p>
-                    </div>
-                </div>
-                <div className="single-cat text-center">
-                    <div className="cat-icon">
-                    <img src="assets/img/gallery/team4.png" alt="" />
-                    </div>
-                    <div className="cat-cap">
-                    <h5>
-                        <a href="services.html">Mr. Arafat</a>
-                    </h5>
-                    <p>The automated process all your website tasks.</p>
-                    </div>
-                </div>
-                <div className="single-cat text-center">
-                    <div className="cat-icon">
-                    <img src="assets/img/gallery/team3.png" alt="" />
-                    </div>
-                    <div className="cat-cap">
-                    <h5>
-                        <a href="services.html">Mr. saiful</a>
-                    </h5>
-                    <p>The automated process all your website tasks.</p>
-                    </div>
-                </div>
-                </div>
-            </div>
-            </section>
-            {/* Services End */}
+          </>
+
+          {/* Services End */}
         </main>
         <footer>
-            <div className="footer-wrappper footer-bg">
+          <div className="footer-wrappper footer-bg">
             {/* Footer Start*/}
             <div className="footer-area footer-padding">
-                <div className="container">
+              <div className="container">
                 <div className="row justify-content-between">
-                    <div className="col-xl-4 col-lg-5 col-md-4 col-sm-6">
+                  <div className="col-xl-4 col-lg-5 col-md-4 col-sm-6">
                     <div className="single-footer-caption mb-50">
-                        <div className="single-footer-caption mb-30">
+                      <div className="single-footer-caption mb-30">
                         {/* logo */}
                         <div className="footer-logo mb-25">
-                            <a href="index.html">
-                            <img src="assets/img/logo/logo2_footer.png" alt="" />
-                            </a>
+                          <a href="index.html">
+                            <img
+                              src="assets/img/logo/logo2_footer.png"
+                              alt=""
+                            />
+                          </a>
                         </div>
                         <div className="footer-tittle">
-                            <div className="footer-pera">
+                          <div className="footer-pera">
                             <p>
-                                The automated process starts as soon as your clothes go
-                                into the machine.
+                              The automated process starts as soon as your
+                              clothes go into the machine.
                             </p>
-                            </div>
+                          </div>
                         </div>
                         {/* social */}
                         <div className="footer-social">
-                            <a href="#">
+                          <a href="#">
                             <i className="fab fa-twitter" />
-                            </a>
-                            <a href="https://bit.ly/sai4ull">
+                          </a>
+                          <a href="https://bit.ly/sai4ull">
                             <i className="fab fa-facebook-f" />
-                            </a>
-                            <a href="#">
+                          </a>
+                          <a href="#">
                             <i className="fab fa-pinterest-p" />
-                            </a>
+                          </a>
                         </div>
-                        </div>
+                      </div>
                     </div>
-                    </div>
-                    <div className="col-xl-2 col-lg-3 col-md-4 col-sm-5">
+                  </div>
+                  <div className="col-xl-2 col-lg-3 col-md-4 col-sm-5">
                     <div className="single-footer-caption mb-50">
-                        <div className="footer-tittle">
+                      <div className="footer-tittle">
                         <h4>Our solutions</h4>
                         <ul>
-                            <li>
+                          <li>
                             <a href="#">Design &amp; creatives</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Telecommunication</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Restaurant</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Programing</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Architecture</a>
-                            </li>
+                          </li>
                         </ul>
-                        </div>
+                      </div>
                     </div>
-                    </div>
-                    <div className="col-xl-2 col-lg-4 col-md-4 col-sm-6">
+                  </div>
+                  <div className="col-xl-2 col-lg-4 col-md-4 col-sm-6">
                     <div className="single-footer-caption mb-50">
-                        <div className="footer-tittle">
+                      <div className="footer-tittle">
                         <h4>Support</h4>
                         <ul>
-                            <li>
+                          <li>
                             <a href="#">Design &amp; creatives</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Telecommunication</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Restaurant</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Programing</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Architecture</a>
-                            </li>
+                          </li>
                         </ul>
-                        </div>
+                      </div>
                     </div>
-                    </div>
-                    <div className="col-xl-2 col-lg-3 col-md-4 col-sm-6">
+                  </div>
+                  <div className="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                     <div className="single-footer-caption mb-50">
-                        <div className="footer-tittle">
+                      <div className="footer-tittle">
                         <h4>Company</h4>
                         <ul>
-                            <li>
+                          <li>
                             <a href="#">Design &amp; creatives</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Telecommunication</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Restaurant</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Programing</a>
-                            </li>
-                            <li>
+                          </li>
+                          <li>
                             <a href="#">Architecture</a>
-                            </li>
+                          </li>
                         </ul>
-                        </div>
+                      </div>
                     </div>
-                    </div>
+                  </div>
                 </div>
-                </div>
+              </div>
             </div>
             {/* footer-bottom area */}
             <div className="footer-bottom-area">
-                <div className="container">
+              <div className="container">
                 <div className="footer-border">
-                    <div className="row d-flex align-items-center">
+                  <div className="row d-flex align-items-center">
                     <div className="col-xl-12 ">
-                        <div className="footer-copy-right text-center">
+                      <div className="footer-copy-right text-center">
                         <p>
-                            {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                            Copyright © All rights reserved | This template is made with{" "}
-                            <i className="fa fa-heart" aria-hidden="true" /> by{" "}
-                            <a href="https://colorlib.com" target="_blank">
+                          {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+                          Copyright © All rights reserved | This template is
+                          made with{" "}
+                          <i className="fa fa-heart" aria-hidden="true" /> by{" "}
+                          <a href="https://colorlib.com" target="_blank">
                             Colorlib
-                            </a>
-                            {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+                          </a>
+                          {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                         </p>
-                        </div>
+                      </div>
                     </div>
-                    </div>
+                  </div>
                 </div>
-                </div>
+              </div>
             </div>
             {/* Footer End*/}
-            </div>
+          </div>
         </footer>
-        
-            {/* Scroll Up */}
-            <div id="back-top">
-                <a title="Go to Top" href="#">
-                {" "}
-                <i className="fas fa-level-up-alt" />
-                </a>
-            </div>
 
-
-        </>
-
-        </Fragment>
-    )
+        {/* Scroll Up */}
+        <div id="back-top">
+          <a title="Go to Top" href="#">
+            {" "}
+            <i className="fas fa-level-up-alt" />
+          </a>
+        </div>
+      </>
+    </Fragment>
+  );
 }
-
 
 export default About;
