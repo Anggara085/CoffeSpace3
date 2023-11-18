@@ -21,7 +21,7 @@ function SeduhKopi2() {
                     <div className="container">
                       <div className="row">
                         <div className="col-xl-8 col-lg-11 col-md-12">
-                          <div className="hero__caption hero__caption2">
+                          <div className="hero__caption hero__caption2 text-left">
                             <h1 data-animation="bounceIn" data-delay="0.2s">
                               Seduh Kopi
                             </h1>
