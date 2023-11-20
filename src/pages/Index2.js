@@ -292,7 +292,7 @@ function Index() {
               <div className="row justify-content-center">
                 <div className="col-xl-7 col-lg-8">
                   <div className="section-tittle text-center mb-55">
-                    <h2>Explore top subjects</h2>
+                    <h2>Resep Kopi Kreatif</h2>
                   </div>
                 </div>
               </div>
@@ -422,15 +422,7 @@ function Index() {
                   </div>
                 </div>
               </div>
-              <div className="row justify-content-center">
-                <div className="col-xl-12">
-                  <div className="section-tittle text-center mt-20">
-                    <a href="courses.html" className="border-btn">
-                      View More Subjects
-                    </a>
-                  </div>
-                </div>
-              </div>
+             
             </div>
           </div>
           {/* top subjects End */}
@@ -453,8 +445,8 @@ function Index() {
                     <div className="single-footer-caption mb-50">
                       <div className="single-footer-caption mb-30">
                         {/* logo */}
-                        <div className="footer-logo mb-25">
-                          <a href="index.html">
+                        <div className="footer-logo mb-26 text-left">
+                          <a href="#">
                             <img
                               src="assets/img/logo/logo2_footer.png"
                               alt=""
@@ -464,23 +456,12 @@ function Index() {
                         <div className="footer-tittle">
                           <div className="footer-pera text-left">
                             <p>
-                            Coffee Space
 Menyediakan informasi mendalam tentang dunia kopi, termasuk sejarah kopi, berbagai jenis biji kopi, teknik pemanggangan, dan proses penyeduhan.
                             </p>
                           </div>
                         </div>
                         {/* social */}
-                        <div className="footer-social">
-                          <a href="#">
-                            <i className="fab fa-twitter" />
-                          </a>
-                          <a href="https://bit.ly/sai4ull">
-                            <i className="fab fa-facebook-f" />
-                          </a>
-                          <a href="#">
-                            <i className="fab fa-pinterest-p" />
-                          </a>
-                        </div>
+                       
                       </div>
                     </div>
                   </div>
@@ -496,7 +477,7 @@ Menyediakan informasi mendalam tentang dunia kopi, termasuk sejarah kopi, berbag
                       </div>
                     </div>
                   </div>
-                  <div className="col-xl-2 col-lg-3 col-md-4 col-sm-6">
+                  <div className="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                     <div className="single-footer-caption mb-50">
                       <div className="footer-tittle">
                         <h4>Media Sosial</h4>
