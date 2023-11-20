@@ -520,15 +520,15 @@ function Galeri() {
         </main>
         <footer>
           <div className="footer-wrappper footer-bg">
-            {/* Footer Start*/}
-            <div className="footer-area footer-padding">
+           {/* Footer Start*/}
+           <div className="footer-area footer-padding">
               <div className="container">
                 <div className="row justify-content-between">
                   <div className="col-xl-4 col-lg-5 col-md-4 col-sm-6">
                     <div className="single-footer-caption mb-50">
                       <div className="single-footer-caption mb-30">
                         {/* logo */}
-                        <div className="footer-logo mb-25">
+                        <div className="footer-logo mb-25 text-left">
                           <a href="index.html">
                             <img
                               src="assets/img/logo/logo2_footer.png"
@@ -615,4 +615,3 @@ function Galeri() {
 }
 
 export default Galeri;
-
