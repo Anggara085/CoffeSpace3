@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import Menu from "./Menu";
 
-function SeduhKopi2() {
+function SeduhKopi1() {
   return (
     <Fragment>
       <Fragment>
@@ -53,20 +53,20 @@ function SeduhKopi2() {
                         <div className="feature-img">
                           <img
                             className="img-fluid"
-                            src="assets/img/kopi/kopimadu.jpeg"
+                            src="assets/img/kopi/racikankopi.jpg"
                             alt=""
                           />
                         </div>
                         <div className="blog_details">
                           <h2 style={{ color: "#2d2d2d" }}>
-                            “Racikan Kopi Campur Madu Lebih Menyehatkan? Ini
-                            Faktanya”
+                            Catat! Ini 5 Racikan Kopi Kekinian yang Disebut
+                            Menyehatkan
                           </h2>
                           <ul className="blog-info-link mt-3 mb-4">
                             <li>
                               <a href="#">
                                 <i className="fa fa-user" /> Kopi dan Kesehatan,
-                                Kopi Enak
+                                Tren Kopi
                               </a>
                             </li>
                             <li>
@@ -76,52 +76,31 @@ function SeduhKopi2() {
                             </li>
                           </ul>
                           <p className="excert">
-                            Kopi bisa diracik menggunakan pemanis tambahan,
-                            kalau ingin yang alami bisa menambahkan madu.
-                            Ternyata, racikan kopi dan madu lebih
-                            menyehatkan.Racikan kopi yang biasa dikonsumsi saat
-                            pagi hari adalah kopi hitam. Sebagian orang yang
-                            ingin merasakan manfaat sehatnya, biasanya
-                            mengonsumsi kopi hitam polos tanpa gula. Kalau ingin
-                            rasa yang lebih nikmat, beberapa orang menambahkan
-                            gula pasir sebagai pemanis. Rasanya jadi lebih
-                            lembut dan pahitnya berkurang. Namun, racikan ini
-                            dianggap dapat mengganggu program diet. Sebagai
-                            alternatif, biasanya mengganti gula dengan madu.
-                            Namun, apakah rasa kopi akan tetap enak dengan
-                            menambahkan madu?
+                            Selama beberapa tahun terakhir muncul berbagai tren
+                            racikan kopi. Racikan kopi ini ada yang dicampur
+                            dengan jamur sampai mentega tawar. Sebagai minuman
+                            yang paling populer dan digemari di dunia, tak
+                            terhitung berapa banyak jumlah racikan kopi yang
+                            ada. Minuman yang dikenal dapat membuat orang lebih
+                            berenergi hingga kaya antioksidan ini, sering diolah
+                            menjadi minuman yang lebih sehat.
                           </p>
-                          <p></p>
+                          <p>
+                            Salah satunya dengan mengganti pemanis buatan dengan
+                            bahan alami yang lebih terjamin kesehatannya.
+                            Seperti tren racikan kopi campur jamur yang kembali
+                            hits, hingga kopi yang cocok untuk diet ketat karena
+                            menggunakan campuran mentega tawar yang creamy.
+                          </p>
                           <div className="quote-wrapper">
                             <div className="quotes">
-                              Dilansir dari Portofolio Coffee (11/11), kopi yang
-                              ditambahkan madu tentunya akan menambahkan rasa
-                              manis. Rasanya tak hanya sebatas manis saja, tapi
-                              juga lebih kaya dengan memberikan sensasi aroma
-                              buah, bunga, kacang ataupun kayu. Madu bisa
-                              menjadi alternatif yang baik sebagai pengganti
-                              gula dalam kopi. Karena, madu disebut memiliki
-                              indeks glikemik yang sedikit lebih rendah
-                              dibandingkan dengan gula pasir biasa.
+                              Dilansir dari berbagai sumber berikut 5 racikan
+                              kopi yang harus di coba : 1. Kopi Jamur 2. Kopi
+                              Campur Minyak Zaitun 3. Kopi Campur Mentega Tawar
+                              4. Kopi Campur Lemon 5. Kopi Tambah Alpukat
                             </div>
                           </div>
-                          <p>
-                            Indeks glikemik yang lebih rendah berarti tidak
-                            meningkatkan kadar gula darah dengan cepat. Meski
-                            begitu, takaran madu pada kopi juga perlu
-                            diperhatikan. Tentunya madu lebih banyak menyimpan
-                            manfaat untuk tubuh. Beberapa penelitian menyebutkan
-                            bahwa madu memiliki sifat anti-inflamasi,
-                            antikanker, antimikroba, dan lainnya. Dilihat dari
-                            kandungan kalori, madu jauh lebih besar kalorinya
-                            dari gula. Satu sendok makan madu memiliki 64
-                            kalori, sedangkan gula hanya 49 kalori saja.Walaupun
-                            kalori gula lebih rendah daripada madu, efeknya di
-                            dalam tubuh tidak menyehatkan. Karena gula sulit
-                            dicerna oleh tubuh, sedangkan madu yang terdiri dari
-                            glukosa dan fruktosa tidak dimurnikan akan lebih
-                            mudah dicerna oleh tubuh.
-                          </p>
+                          <p></p>
                         </div>
                       </div>
                       <div className="navigation-top">
@@ -206,20 +185,20 @@ function SeduhKopi2() {
                           <img src="assets/img/blog/anonim.png" alt="" />
                           <div className="media-body text-left">
                             <a href="#">
-                              <h4>Rendy Gede</h4>
+                              <h4>Irfan Lian</h4>
                             </a>
                             <p>
-                              Saya sangat senang bisa berbagi artikel tentang
-                              kopi madu ini dengan Anda semua! Kombinasi antara
-                              kopi dan madu tidak hanya memberikan sentuhan rasa
-                              yang lezat, tetapi juga memberikan berbagai
-                              manfaat kesehatan yang luar biasa. Saya berharap
-                              artikel ini memberikan inspirasi kepada pembaca
-                              untuk mencoba sesuatu yang baru dan menikmati
-                              pengalaman minum kopi yang berbeda. Jangan ragu
-                              untuk berbagi pengalaman Anda setelah mencoba
-                              resep ini. Selamat menikmati kopi madu yang lezat
-                              dan sehat!
+                              Senang bisa berbagi informasi tentang 5 kopi
+                              menyehatkan ini! Sebagai penggemar kopi, saya
+                              percaya bahwa minuman favorit kita juga bisa
+                              menjadi bagian dari gaya hidup sehat. Artikel ini
+                              mencoba menyajikan opsi kopi yang tidak hanya
+                              menggugah selera tetapi juga memberikan manfaat
+                              kesehatan. Semoga pembaca menemukan inspirasi baru
+                              dalam menikmati kopi mereka sehari-hari. Jangan
+                              ragu untuk berbagi pengalaman setelah mencoba
+                              rekomendasi ini. Selamat menikmati kopi sehat dan
+                              nikmat!
                             </p>
                           </div>
                         </div>
@@ -234,17 +213,18 @@ function SeduhKopi2() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Menemukan artikel ini benar-benar membuat saya
-                                  penasaran tentang kopi madu. Saya senang bahwa
-                                  artikel ini memberikan informasi mendalam
-                                  tentang manfaat kesehatan kopi dan madu.
-                                  Rasanya seperti kombinasi yang sempurna antara
-                                  kelezatan dan kesehatan!
+                                  Artikel tentang 5 kopi menyehatkan sangat
+                                  bermanfaat! Saya baru mengetahui variasi kopi
+                                  yang memiliki manfaat kesehatan, dan ini
+                                  benar-benar membuka mata saya. Saya terutama
+                                  tertarik untuk mencoba kopi dengan tambahan
+                                  bahan-bahan superfood. Terima kasih atas
+                                  informasinya yang berharga!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Andika Pratama</a>
+                                      <a href="#">Gigih Pambudi</a>
                                     </h5>
                                     <p className="date">
                                       12 November 2023, 11:20 WIB{" "}
@@ -271,17 +251,19 @@ function SeduhKopi2() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Saya tidak pernah membayangkan bahwa kopi dan
-                                  madu dapat dipadukan dengan begitu harmonis.
-                                  Artikel ini memberikan wawasan yang bagus
-                                  tentang cara membuat kopi madu yang enak. Saya
-                                  yakin ini akan menjadi alternatif yang menarik
-                                  untuk rutinitas minum kopi saya setiap hari.
+                                  Membaca artikel ini membuat saya lebih sadar
+                                  akan pilihan kopi yang saya minum setiap hari.
+                                  Ternyata, kopi tidak hanya enak tetapi juga
+                                  dapat memberikan manfaat kesehatan. Saya
+                                  sangat tertarik untuk mencoba beberapa jenis
+                                  kopi yang disarankan untuk mendukung kesehatan
+                                  tubuh saya. Terima kasih atas artikel yang
+                                  informatif!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Dion Wibowo</a>
+                                      <a href="#">Muhammad Ilham</a>
                                     </h5>
                                     <p className="date">
                                       12 November 2023, 12:00 WIB{" "}
@@ -308,18 +290,19 @@ function SeduhKopi2() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Kopi madu tampaknya menjadi tren baru yang
-                                  patut dicoba. Artikel ini memberikan informasi
-                                  yang jelas tentang manfaat kesehatan dari
-                                  kombinasi kopi dan madu, serta memberikan
-                                  ide-ide resep yang kreatif. Saya bersemangat
-                                  untuk mencoba variasi kopi ini untuk mengubah
-                                  pengalaman minum kopi saya.
+                                  Sangat menginspirasi! Sebagai pencinta kopi,
+                                  saya senang mengetahui bahwa ada pilihan kopi
+                                  yang tidak hanya lezat tetapi juga
+                                  menyehatkan. Artikel ini memberikan wawasan
+                                  yang baik tentang berbagai jenis kopi yang
+                                  dapat meningkatkan kesehatan. Saya akan segera
+                                  mencoba beberapa rekomendasi yang diberikan.
+                                  Terima kasih!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Rina Sastro</a>
+                                      <a href="#">Dimas Dwi</a>
                                     </h5>
                                     <p className="date">
                                       12 November 2023, 13:12 WIB{" "}
@@ -650,94 +633,93 @@ function SeduhKopi2() {
             </main>
             <footer>
               <div className="footer-wrappper footer-bg">
-                {/* Footer Start*/}
-                <div className="footer-area footer-padding">
-                  <div className="container">
-                    <div className="row justify-content-between">
-                      <div className="col-xl-4 col-lg-5 col-md-4 col-sm-6">
-                        <div className="single-footer-caption mb-50">
-                          <div className="single-footer-caption mb-30">
-                            {/* logo */}
-                            <div className="footer-logo mb-25">
-                              <a href="index.html">
-                                <img
-                                  src="assets/img/logo/logo2_footer.png"
-                                  alt=""
-                                />
-                              </a>
-                            </div>
-                            <div className="footer-tittle">
-                              <div className="footer-pera text-left">
-                                <p>
-                                  Menyediakan informasi mendalam tentang dunia
-                                  kopi, termasuk sejarah kopi, berbagai jenis
-                                  biji kopi, teknik pemanggangan, dan proses
-                                  penyeduhan.
-                                </p>
-                              </div>
-                            </div>
-                            {/* social */}
-                          </div>
+               {/* Footer Start*/}
+            <div className="footer-area footer-padding">
+              <div className="container">
+                <div className="row justify-content-between">
+                  <div className="col-xl-4 col-lg-5 col-md-4 col-sm-6">
+                    <div className="single-footer-caption mb-50">
+                      <div className="single-footer-caption mb-30">
+                        {/* logo */}
+                        <div className="footer-logo mb-25 text-left">
+                          <a href="index.html">
+                            <img
+                              src="assets/img/logo/logo2_footer.png"
+                              alt=""
+                            />
+                          </a>
                         </div>
-                      </div>
-                      <div className="col-xl-2 col-lg-3 col-md-4 col-sm-5">
-                        <div className="single-footer-caption mb-50">
-                          <div className="footer-tittle">
-                            <h4>Hubungi Kami</h4>
-                            <ul>
-                              <li>
-                                <a href="#">
-                                  Coffeespace2023@gmail.com 0210-1234567
-                                </a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                        <div className="single-footer-caption mb-50">
-                          <div className="footer-tittle">
-                            <h4>Media Sosial</h4>
-                            {/* social */}
-                            <div className="footer-social">
-                              <a href="#">
-                                <i className="fab fa-twitter" />
-                              </a>
-                              <a href="#">
-                                <i className="fab fa-whatsapp" />
-                              </a>
-                              <a href="#">
-                                <i className="fab fa-youtube" />
-                              </a>
-                              <a href="#">
-                                <i className="fab fa-instagram" />
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                {/* footer-bottom area */}
-                <div className="footer-bottom-area">
-                  <div className="container">
-                    <div className="footer-border">
-                      <div className="row d-flex align-items-center">
-                        <div className="col-xl-12 ">
-                          <div className="footer-copy-right text-center">
+                        <div className="footer-tittle">
+                          <div className="footer-pera text-left">
                             <p>
-                              {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                              © 2023 Coffee Space. All Rights Reserved.{" "}
-                              {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+                              Menyediakan informasi mendalam tentang dunia kopi,
+                              termasuk sejarah kopi, berbagai jenis biji kopi,
+                              teknik pemanggangan, dan proses penyeduhan.
                             </p>
                           </div>
                         </div>
+                        {/* social */}
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-xl-2 col-lg-3 col-md-4 col-sm-5">
+                    <div className="single-footer-caption mb-50">
+                      <div className="footer-tittle">
+                        <h4>Hubungi Kami</h4>
+                        <ul>
+                          <li>
+                            <a href="#">
+                              Coffeespace2023@gmail.com 0210-1234567
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                    <div className="single-footer-caption mb-50">
+                      <div className="footer-tittle">
+                        <h4>Media Sosial</h4>
+                        {/* social */}
+                        <div className="footer-social">
+                          <a href="#">
+                            <i className="fab fa-twitter" />
+                          </a>
+                          <a href="#">
+                            <i className="fab fa-whatsapp" />
+                          </a>
+                          <a href="#">
+                            <i className="fab fa-youtube" />
+                          </a>
+                          <a href="#">
+                            <i className="fab fa-instagram" />
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                {/* Footer End*/}
+              </div>
+            </div>
+            {/* footer-bottom area */}
+            <div className="footer-bottom-area">
+              <div className="container">
+                <div className="footer-border">
+                  <div className="row d-flex align-items-center">
+                    <div className="col-xl-12 ">
+                      <div className="footer-copy-right text-center">
+                        <p>
+                          {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+                          © 2023 Coffee Space. All Rights Reserved.{" "}
+                          {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {/* Footer End*/}
               </div>
             </footer>
           </>
@@ -747,4 +729,4 @@ function SeduhKopi2() {
   );
 }
 
-export default SeduhKopi2;
+export default SeduhKopi1;
