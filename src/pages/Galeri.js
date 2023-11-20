@@ -205,8 +205,8 @@ function Galeri() {
                           alt=""
                         />
                         <a href="#" className="blog_item_date">
-                          <h3>15</h3>
-                          <p>Jan</p>
+                          <h3>14</h3>
+                          <p>Nov</p>
                         </a>
                       </div>
                       <div className="blog_details text-left">
@@ -232,6 +232,49 @@ function Galeri() {
                             <a href="#">
                               <i className="fa fa-user" /> Sejarah Kopi,
                               Lifestyle
+                            </a>
+                          </li>
+                          <li>
+                            <a href="#">
+                              <i className="fa fa-comments" /> 03 Komentar
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </article>
+                    <article className="blog_item">
+                      <div className="blog_item_img">
+                        <img
+                          className="card-img rounded-0"
+                          src="assets/img/kopi/proseskopi.jpeg"
+                          alt=""
+                        />
+                        <a href="#" className="blog_item_date">
+                          <h3>15</h3>
+                          <p>Nov</p>
+                        </a>
+                      </div>
+                      <div className="blog_details text-left">
+                        <a className="d-inline-block" href="/SeduhKopi4">
+                          <h2
+                            className="blog-head text-left"
+                            style={{ color: "#2d2d2d" }}
+                          >
+                            Cerita Perjalanan dan Proses Pengolahan Kopi sampai
+                            Siap Diseduh
+                          </h2>
+                        </a>
+                        <p>
+                          Sebelum bisa diseduh, diteguk, dan dinikmati di rumah
+                          maupun coffee shop, kopi mengalami cerita perjalanan
+                          dan proses pengolahan yang panjang. Proses tersebut
+                          terdiri atas pemanenan, penjemuran, penyangraian,
+                          hingga penyeduhan sampai jadi minuman yang mantap.
+                        </p>
+                        <ul className="blog-info-link">
+                          <li>
+                            <a href="#">
+                              <i className="fa fa-user" /> Proses Pembuatan Kopi
                             </a>
                           </li>
                           <li>
@@ -572,3 +615,4 @@ function Galeri() {
 }
 
 export default Galeri;
+
