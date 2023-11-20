@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import Menu from "./Menu";
 
-function SeduhKopi1() {
+function SeduhKopi2() {
   return (
     <Fragment>
       <Fragment>
@@ -53,20 +53,20 @@ function SeduhKopi1() {
                         <div className="feature-img">
                           <img
                             className="img-fluid"
-                            src="assets/img/kopi/racikankopi.jpg"
+                            src="assets/img/kopi/kopimadu.jpeg"
                             alt=""
                           />
                         </div>
                         <div className="blog_details">
                           <h2 style={{ color: "#2d2d2d" }}>
-                            Catat! Ini 5 Racikan Kopi Kekinian yang Disebut
-                            Menyehatkan
+                            “Racikan Kopi Campur Madu Lebih Menyehatkan? Ini
+                            Faktanya”
                           </h2>
                           <ul className="blog-info-link mt-3 mb-4">
                             <li>
                               <a href="#">
                                 <i className="fa fa-user" /> Kopi dan Kesehatan,
-                                Tren Kopi
+                                Kopi Enak
                               </a>
                             </li>
                             <li>
@@ -76,31 +76,52 @@ function SeduhKopi1() {
                             </li>
                           </ul>
                           <p className="excert">
-                            Selama beberapa tahun terakhir muncul berbagai tren
-                            racikan kopi. Racikan kopi ini ada yang dicampur
-                            dengan jamur sampai mentega tawar. Sebagai minuman
-                            yang paling populer dan digemari di dunia, tak
-                            terhitung berapa banyak jumlah racikan kopi yang
-                            ada. Minuman yang dikenal dapat membuat orang lebih
-                            berenergi hingga kaya antioksidan ini, sering diolah
-                            menjadi minuman yang lebih sehat.
+                            Kopi bisa diracik menggunakan pemanis tambahan,
+                            kalau ingin yang alami bisa menambahkan madu.
+                            Ternyata, racikan kopi dan madu lebih
+                            menyehatkan.Racikan kopi yang biasa dikonsumsi saat
+                            pagi hari adalah kopi hitam. Sebagian orang yang
+                            ingin merasakan manfaat sehatnya, biasanya
+                            mengonsumsi kopi hitam polos tanpa gula. Kalau ingin
+                            rasa yang lebih nikmat, beberapa orang menambahkan
+                            gula pasir sebagai pemanis. Rasanya jadi lebih
+                            lembut dan pahitnya berkurang. Namun, racikan ini
+                            dianggap dapat mengganggu program diet. Sebagai
+                            alternatif, biasanya mengganti gula dengan madu.
+                            Namun, apakah rasa kopi akan tetap enak dengan
+                            menambahkan madu?
                           </p>
-                          <p>
-                            Salah satunya dengan mengganti pemanis buatan dengan
-                            bahan alami yang lebih terjamin kesehatannya.
-                            Seperti tren racikan kopi campur jamur yang kembali
-                            hits, hingga kopi yang cocok untuk diet ketat karena
-                            menggunakan campuran mentega tawar yang creamy.
-                          </p>
+                          <p></p>
                           <div className="quote-wrapper">
                             <div className="quotes">
-                              Dilansir dari berbagai sumber berikut 5 racikan
-                              kopi yang harus di coba : 1. Kopi Jamur 2. Kopi
-                              Campur Minyak Zaitun 3. Kopi Campur Mentega Tawar
-                              4. Kopi Campur Lemon 5. Kopi Tambah Alpukat
+                              Dilansir dari Portofolio Coffee (11/11), kopi yang
+                              ditambahkan madu tentunya akan menambahkan rasa
+                              manis. Rasanya tak hanya sebatas manis saja, tapi
+                              juga lebih kaya dengan memberikan sensasi aroma
+                              buah, bunga, kacang ataupun kayu. Madu bisa
+                              menjadi alternatif yang baik sebagai pengganti
+                              gula dalam kopi. Karena, madu disebut memiliki
+                              indeks glikemik yang sedikit lebih rendah
+                              dibandingkan dengan gula pasir biasa.
                             </div>
                           </div>
-                          <p></p>
+                          <p>
+                            Indeks glikemik yang lebih rendah berarti tidak
+                            meningkatkan kadar gula darah dengan cepat. Meski
+                            begitu, takaran madu pada kopi juga perlu
+                            diperhatikan. Tentunya madu lebih banyak menyimpan
+                            manfaat untuk tubuh. Beberapa penelitian menyebutkan
+                            bahwa madu memiliki sifat anti-inflamasi,
+                            antikanker, antimikroba, dan lainnya. Dilihat dari
+                            kandungan kalori, madu jauh lebih besar kalorinya
+                            dari gula. Satu sendok makan madu memiliki 64
+                            kalori, sedangkan gula hanya 49 kalori saja.Walaupun
+                            kalori gula lebih rendah daripada madu, efeknya di
+                            dalam tubuh tidak menyehatkan. Karena gula sulit
+                            dicerna oleh tubuh, sedangkan madu yang terdiri dari
+                            glukosa dan fruktosa tidak dimurnikan akan lebih
+                            mudah dicerna oleh tubuh.
+                          </p>
                         </div>
                       </div>
                       <div className="navigation-top">
@@ -185,20 +206,20 @@ function SeduhKopi1() {
                           <img src="assets/img/blog/anonim.png" alt="" />
                           <div className="media-body text-left">
                             <a href="#">
-                              <h4>Irfan Lian</h4>
+                              <h4>Rendy Gede</h4>
                             </a>
                             <p>
-                              Senang bisa berbagi informasi tentang 5 kopi
-                              menyehatkan ini! Sebagai penggemar kopi, saya
-                              percaya bahwa minuman favorit kita juga bisa
-                              menjadi bagian dari gaya hidup sehat. Artikel ini
-                              mencoba menyajikan opsi kopi yang tidak hanya
-                              menggugah selera tetapi juga memberikan manfaat
-                              kesehatan. Semoga pembaca menemukan inspirasi baru
-                              dalam menikmati kopi mereka sehari-hari. Jangan
-                              ragu untuk berbagi pengalaman setelah mencoba
-                              rekomendasi ini. Selamat menikmati kopi sehat dan
-                              nikmat!
+                              Saya sangat senang bisa berbagi artikel tentang
+                              kopi madu ini dengan Anda semua! Kombinasi antara
+                              kopi dan madu tidak hanya memberikan sentuhan rasa
+                              yang lezat, tetapi juga memberikan berbagai
+                              manfaat kesehatan yang luar biasa. Saya berharap
+                              artikel ini memberikan inspirasi kepada pembaca
+                              untuk mencoba sesuatu yang baru dan menikmati
+                              pengalaman minum kopi yang berbeda. Jangan ragu
+                              untuk berbagi pengalaman Anda setelah mencoba
+                              resep ini. Selamat menikmati kopi madu yang lezat
+                              dan sehat!
                             </p>
                           </div>
                         </div>
@@ -213,18 +234,17 @@ function SeduhKopi1() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Artikel tentang 5 kopi menyehatkan sangat
-                                  bermanfaat! Saya baru mengetahui variasi kopi
-                                  yang memiliki manfaat kesehatan, dan ini
-                                  benar-benar membuka mata saya. Saya terutama
-                                  tertarik untuk mencoba kopi dengan tambahan
-                                  bahan-bahan superfood. Terima kasih atas
-                                  informasinya yang berharga!
+                                  Menemukan artikel ini benar-benar membuat saya
+                                  penasaran tentang kopi madu. Saya senang bahwa
+                                  artikel ini memberikan informasi mendalam
+                                  tentang manfaat kesehatan kopi dan madu.
+                                  Rasanya seperti kombinasi yang sempurna antara
+                                  kelezatan dan kesehatan!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Gigih Pambudi</a>
+                                      <a href="#">Andika Pratama</a>
                                     </h5>
                                     <p className="date">
                                       12 November 2023, 11:20 WIB{" "}
@@ -251,19 +271,17 @@ function SeduhKopi1() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Membaca artikel ini membuat saya lebih sadar
-                                  akan pilihan kopi yang saya minum setiap hari.
-                                  Ternyata, kopi tidak hanya enak tetapi juga
-                                  dapat memberikan manfaat kesehatan. Saya
-                                  sangat tertarik untuk mencoba beberapa jenis
-                                  kopi yang disarankan untuk mendukung kesehatan
-                                  tubuh saya. Terima kasih atas artikel yang
-                                  informatif!
+                                  Saya tidak pernah membayangkan bahwa kopi dan
+                                  madu dapat dipadukan dengan begitu harmonis.
+                                  Artikel ini memberikan wawasan yang bagus
+                                  tentang cara membuat kopi madu yang enak. Saya
+                                  yakin ini akan menjadi alternatif yang menarik
+                                  untuk rutinitas minum kopi saya setiap hari.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Muhammad Ilham</a>
+                                      <a href="#">Dion Wibowo</a>
                                     </h5>
                                     <p className="date">
                                       12 November 2023, 12:00 WIB{" "}
@@ -290,19 +308,18 @@ function SeduhKopi1() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Sangat menginspirasi! Sebagai pencinta kopi,
-                                  saya senang mengetahui bahwa ada pilihan kopi
-                                  yang tidak hanya lezat tetapi juga
-                                  menyehatkan. Artikel ini memberikan wawasan
-                                  yang baik tentang berbagai jenis kopi yang
-                                  dapat meningkatkan kesehatan. Saya akan segera
-                                  mencoba beberapa rekomendasi yang diberikan.
-                                  Terima kasih!
+                                  Kopi madu tampaknya menjadi tren baru yang
+                                  patut dicoba. Artikel ini memberikan informasi
+                                  yang jelas tentang manfaat kesehatan dari
+                                  kombinasi kopi dan madu, serta memberikan
+                                  ide-ide resep yang kreatif. Saya bersemangat
+                                  untuk mencoba variasi kopi ini untuk mengubah
+                                  pengalaman minum kopi saya.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Dimas Dwi</a>
+                                      <a href="#">Rina Sastro</a>
                                     </h5>
                                     <p className="date">
                                       12 November 2023, 13:12 WIB{" "}
@@ -730,4 +747,4 @@ function SeduhKopi1() {
   );
 }
 
-export default SeduhKopi1;
+export default SeduhKopi2;
