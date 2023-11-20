@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import Menu from "./Menu";
 
-function SeduhKopi2() {
+function SeduhKopi1() {
   return (
     <Fragment>
       <Fragment>
@@ -49,74 +49,58 @@ function SeduhKopi2() {
                 <div className="container">
                   <div className="row">
                     <div className="col-lg-8 posts-list">
-                      <div className="single-post">
+                      <div className="single-post text-left">
                         <div className="feature-img">
                           <img
                             className="img-fluid"
-                            src="assets/img/blog/single_blog_1.png"
+                            src="assets/img/kopi/racikankopi.jpg"
                             alt=""
                           />
                         </div>
                         <div className="blog_details">
                           <h2 style={{ color: "#2d2d2d" }}>
-                            Second divided from form fish beast made every of
-                            seas all gathered us saying he our
+                            Catat! Ini 5 Racikan Kopi Kekinian yang Disebut
+                            Menyehatkan
                           </h2>
                           <ul className="blog-info-link mt-3 mb-4">
                             <li>
                               <a href="#">
-                                <i className="fa fa-user" /> Travel, Lifestyle
+                                <i className="fa fa-user" /> Kopi dan Kesehatan,
+                                Tren Kopi
                               </a>
                             </li>
                             <li>
                               <a href="#">
-                                <i className="fa fa-comments" /> 03 Comments
+                                <i className="fa fa-comments" /> 03 Komentar
                               </a>
                             </li>
                           </ul>
                           <p className="excert">
-                            MCSE boot camps have its supporters and its
-                            detractors. Some people do not understand why you
-                            should have to spend money on boot camp when you can
-                            get the MCSE study materials yourself at a fraction
-                            of the camp price. However, who has the willpower
+                            Selama beberapa tahun terakhir muncul berbagai tren
+                            racikan kopi. Racikan kopi ini ada yang dicampur
+                            dengan jamur sampai mentega tawar. Sebagai minuman
+                            yang paling populer dan digemari di dunia, tak
+                            terhitung berapa banyak jumlah racikan kopi yang
+                            ada. Minuman yang dikenal dapat membuat orang lebih
+                            berenergi hingga kaya antioksidan ini, sering diolah
+                            menjadi minuman yang lebih sehat.
                           </p>
                           <p>
-                            MCSE boot camps have its supporters and its
-                            detractors. Some people do not understand why you
-                            should have to spend money on boot camp when you can
-                            get the MCSE study materials yourself at a fraction
-                            of the camp price. However, who has the willpower to
-                            actually sit through a self-imposed MCSE training.
-                            who has the willpower to actually
+                            Salah satunya dengan mengganti pemanis buatan dengan
+                            bahan alami yang lebih terjamin kesehatannya.
+                            Seperti tren racikan kopi campur jamur yang kembali
+                            hits, hingga kopi yang cocok untuk diet ketat karena
+                            menggunakan campuran mentega tawar yang creamy.
                           </p>
                           <div className="quote-wrapper">
                             <div className="quotes">
-                              MCSE boot camps have its supporters and its
-                              detractors. Some people do not understand why you
-                              should have to spend money on boot camp when you
-                              can get the MCSE study materials yourself at a
-                              fraction of the camp price. However, who has the
-                              willpower to actually sit through a self-imposed
-                              MCSE training.
+                              Dilansir dari berbagai sumber berikut 5 racikan
+                              kopi yang harus di coba : 1. Kopi Jamur 2. Kopi
+                              Campur Minyak Zaitun 3. Kopi Campur Mentega Tawar
+                              4. Kopi Campur Lemon 5. Kopi Tambah Alpukat
                             </div>
                           </div>
-                          <p>
-                            MCSE boot camps have its supporters and its
-                            detractors. Some people do not understand why you
-                            should have to spend money on boot camp when you can
-                            get the MCSE study materials yourself at a fraction
-                            of the camp price. However, who has the willpower
-                          </p>
-                          <p>
-                            MCSE boot camps have its supporters and its
-                            detractors. Some people do not understand why you
-                            should have to spend money on boot camp when you can
-                            get the MCSE study materials yourself at a fraction
-                            of the camp price. However, who has the willpower to
-                            actually sit through a self-imposed MCSE training.
-                            who has the willpower to actually
-                          </p>
+                          <p></p>
                         </div>
                       </div>
                       <div className="navigation-top">
@@ -125,7 +109,7 @@ function SeduhKopi2() {
                             <span className="align-middle">
                               <i className="fa fa-heart" />
                             </span>{" "}
-                            Lily and 4 people like this
+                            Ahmad dan 4 lainnya menyukai ini
                           </p>
                           <div className="col-sm-4 text-center my-2 my-sm-0">
                             {/* <p class="comment-count"><span class="align-middle"><i class="fa fa-comment"></i></span> 06 Comments</p> */}
@@ -141,16 +125,6 @@ function SeduhKopi2() {
                                 <i className="fab fa-twitter" />
                               </a>
                             </li>
-                            <li>
-                              <a href="#">
-                                <i className="fab fa-dribbble" />
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i className="fab fa-behance" />
-                              </a>
-                            </li>
                           </ul>
                         </div>
                         <div className="navigation-area">
@@ -160,7 +134,7 @@ function SeduhKopi2() {
                                 <a href="#">
                                   <img
                                     className="img-fluid"
-                                    src="assets/img/post/preview.png"
+                                    src="assets/img/Foto Kopi/latte1.jpg"
                                     alt=""
                                   />
                                 </a>
@@ -171,20 +145,20 @@ function SeduhKopi2() {
                                 </a>
                               </div>
                               <div className="detials">
-                                <p>Prev Post</p>
+                                <p>Postingan Sebelumnya</p>
                                 <a href="#">
                                   <h4 style={{ color: "#2d2d2d" }}>
-                                    Space The Final Frontier
+                                    Kopi Latte Art Terunik
                                   </h4>
                                 </a>
                               </div>
                             </div>
                             <div className="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                               <div className="detials">
-                                <p>Next Post</p>
+                                <p>Postingan Selanjutnya</p>
                                 <a href="#">
                                   <h4 style={{ color: "#2d2d2d" }}>
-                                    Telescopes 101
+                                    Tren Kopi Lelet Rembang
                                   </h4>
                                 </a>
                               </div>
@@ -197,7 +171,7 @@ function SeduhKopi2() {
                                 <a href="#">
                                   <img
                                     className="img-fluid"
-                                    src="assets/img/post/next.png"
+                                    src="assets/img/Foto Kopi/kopi lelet.jpg"
                                     alt=""
                                   />
                                 </a>
@@ -207,45 +181,53 @@ function SeduhKopi2() {
                         </div>
                       </div>
                       <div className="blog-author">
-                        <div className="media align-items-center">
-                          <img src="assets/img/blog/author.png" alt="" />
-                          <div className="media-body">
+                        <div className="media align-items-left">
+                          <img src="assets/img/blog/anonim.png" alt="" />
+                          <div className="media-body text-left">
                             <a href="#">
-                              <h4>Harvard milan</h4>
+                              <h4>Irfan Lian</h4>
                             </a>
                             <p>
-                              Second divided from form fish beast made. Every of
-                              seas all gathered use saying you're, he our
-                              dominion twon Second divided from
+                              Senang bisa berbagi informasi tentang 5 kopi
+                              menyehatkan ini! Sebagai penggemar kopi, saya
+                              percaya bahwa minuman favorit kita juga bisa
+                              menjadi bagian dari gaya hidup sehat. Artikel ini
+                              mencoba menyajikan opsi kopi yang tidak hanya
+                              menggugah selera tetapi juga memberikan manfaat
+                              kesehatan. Semoga pembaca menemukan inspirasi baru
+                              dalam menikmati kopi mereka sehari-hari. Jangan
+                              ragu untuk berbagi pengalaman setelah mencoba
+                              rekomendasi ini. Selamat menikmati kopi sehat dan
+                              nikmat!
                             </p>
                           </div>
                         </div>
                       </div>
                       <div className="comments-area">
-                        <h4>05 Comments</h4>
-                        <div className="comment-list">
+                        <h4>03 Komentar</h4>
+                        <div className="comment-list text-left">
                           <div className="single-comment justify-content-between d-flex">
                             <div className="user justify-content-between d-flex">
                               <div className="thumb">
-                                <img
-                                  src="assets/img/blog/comment_1.png"
-                                  alt=""
-                                />
+                                <img src="assets/img/blog/anonim.png" alt="" />
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Multiply sea night grass fourth day sea lesser
-                                  rule open subdue female fill which them
-                                  Blessed, give fill lesser bearing multiply sea
-                                  night grass fourth day sea lesser
+                                  Artikel tentang 5 kopi menyehatkan sangat
+                                  bermanfaat! Saya baru mengetahui variasi kopi
+                                  yang memiliki manfaat kesehatan, dan ini
+                                  benar-benar membuka mata saya. Saya terutama
+                                  tertarik untuk mencoba kopi dengan tambahan
+                                  bahan-bahan superfood. Terima kasih atas
+                                  informasinya yang berharga!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Emilly Blunt</a>
+                                      <a href="#">Gigih Pambudi</a>
                                     </h5>
                                     <p className="date">
-                                      December 4, 2017 at 3:12 pm{" "}
+                                      12 November 2023, 11:20 WIB{" "}
                                     </p>
                                   </div>
                                   <div className="reply-btn">
@@ -261,29 +243,30 @@ function SeduhKopi2() {
                             </div>
                           </div>
                         </div>
-                        <div className="comment-list">
+                        <div className="comment-list text-left">
                           <div className="single-comment justify-content-between d-flex">
                             <div className="user justify-content-between d-flex">
                               <div className="thumb">
-                                <img
-                                  src="assets/img/blog/comment_2.png"
-                                  alt=""
-                                />
+                                <img src="assets/img/blog/anonim.png" alt="" />
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Multiply sea night grass fourth day sea lesser
-                                  rule open subdue female fill which them
-                                  Blessed, give fill lesser bearing multiply sea
-                                  night grass fourth day sea lesser
+                                  Membaca artikel ini membuat saya lebih sadar
+                                  akan pilihan kopi yang saya minum setiap hari.
+                                  Ternyata, kopi tidak hanya enak tetapi juga
+                                  dapat memberikan manfaat kesehatan. Saya
+                                  sangat tertarik untuk mencoba beberapa jenis
+                                  kopi yang disarankan untuk mendukung kesehatan
+                                  tubuh saya. Terima kasih atas artikel yang
+                                  informatif!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Emilly Blunt</a>
+                                      <a href="#">Muhammad Ilham</a>
                                     </h5>
                                     <p className="date">
-                                      December 4, 2017 at 3:12 pm{" "}
+                                      12 November 2023, 12:00 WIB{" "}
                                     </p>
                                   </div>
                                   <div className="reply-btn">
@@ -299,29 +282,30 @@ function SeduhKopi2() {
                             </div>
                           </div>
                         </div>
-                        <div className="comment-list">
+                        <div className="comment-list text-left">
                           <div className="single-comment justify-content-between d-flex">
                             <div className="user justify-content-between d-flex">
                               <div className="thumb">
-                                <img
-                                  src="assets/img/blog/comment_3.png"
-                                  alt=""
-                                />
+                                <img src="assets/img/blog/anonim.png" alt="" />
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Multiply sea night grass fourth day sea lesser
-                                  rule open subdue female fill which them
-                                  Blessed, give fill lesser bearing multiply sea
-                                  night grass fourth day sea lesser
+                                  Sangat menginspirasi! Sebagai pencinta kopi,
+                                  saya senang mengetahui bahwa ada pilihan kopi
+                                  yang tidak hanya lezat tetapi juga
+                                  menyehatkan. Artikel ini memberikan wawasan
+                                  yang baik tentang berbagai jenis kopi yang
+                                  dapat meningkatkan kesehatan. Saya akan segera
+                                  mencoba beberapa rekomendasi yang diberikan.
+                                  Terima kasih!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Emilly Blunt</a>
+                                      <a href="#">Dimas Dwi</a>
                                     </h5>
                                     <p className="date">
-                                      December 4, 2017 at 3:12 pm{" "}
+                                      12 November 2023, 13:12 WIB{" "}
                                     </p>
                                   </div>
                                   <div className="reply-btn">
@@ -339,7 +323,7 @@ function SeduhKopi2() {
                         </div>
                       </div>
                       <div className="comment-form">
-                        <h4>Leave a Reply</h4>
+                        <h4>Tinggalkan Komentar</h4>
                         <form
                           className="form-contact comment_form"
                           action="#"
@@ -354,7 +338,7 @@ function SeduhKopi2() {
                                   id="comment"
                                   cols={30}
                                   rows={9}
-                                  placeholder="Write Comment"
+                                  placeholder="Tulis Komentar"
                                   defaultValue={""}
                                 />
                               </div>
@@ -363,10 +347,10 @@ function SeduhKopi2() {
                               <div className="form-group">
                                 <input
                                   className="form-control"
-                                  name="name"
-                                  id="name"
+                                  name="nama"
+                                  id="nama"
                                   type="text"
-                                  placeholder="Name"
+                                  placeholder="Nama"
                                 />
                               </div>
                             </div>
@@ -398,7 +382,7 @@ function SeduhKopi2() {
                               type="submit"
                               className="button button-contactForm btn_1 boxed-btn"
                             >
-                              Post Comment
+                              Kirim Komentar
                             </button>
                           </div>
                         </form>
@@ -413,9 +397,9 @@ function SeduhKopi2() {
                                 <input
                                   type="text"
                                   className="form-control"
-                                  placeholder="Search Keyword"
+                                  placeholder="Cari Kata Kunci"
                                   onfocus="this.placeholder = ''"
-                                  onblur="this.placeholder = 'Search Keyword'"
+                                  onblur="this.placeholder = 'Cari Kata Kunci'"
                                 />
                                 <div className="input-group-append">
                                   <button className="btns" type="button">
@@ -428,7 +412,7 @@ function SeduhKopi2() {
                               className="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
                               type="submit"
                             >
-                              Search
+                              Cari
                             </button>
                           </form>
                         </aside>
@@ -437,43 +421,43 @@ function SeduhKopi2() {
                             className="widget_title"
                             style={{ color: "#2d2d2d" }}
                           >
-                            Category
+                            Kategori
                           </h4>
                           <ul className="list cat-list">
                             <li>
                               <a href="#" className="d-flex">
-                                <p>Resaurant food</p>
-                                <p>(37)</p>
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#" className="d-flex">
-                                <p>Travel news</p>
+                                <p>Sejarah Kopi</p>
                                 <p>(10)</p>
                               </a>
                             </li>
                             <li>
                               <a href="#" className="d-flex">
-                                <p>Modern technology</p>
-                                <p>(03)</p>
+                                <p>Jenis Kopi</p>
+                                <p>(15)</p>
                               </a>
                             </li>
                             <li>
                               <a href="#" className="d-flex">
-                                <p>Product</p>
+                                <p>Proses Pembuatan Kopi</p>
+                                <p>(07)</p>
+                              </a>
+                            </li>
+                            <li>
+                              <a href="#" className="d-flex">
+                                <p>Kopi dan Kesehatan</p>
                                 <p>(11)</p>
                               </a>
                             </li>
                             <li>
                               <a href="#" className="d-flex">
-                                <p>Inspiration</p>
-                                <p>(21)</p>
+                                <p>Berita dan Tren Kopi</p>
+                                <p>(10)</p>
                               </a>
                             </li>
                             <li>
                               <a href="#" className="d-flex">
-                                <p>Health Care</p>
-                                <p>(21)</p>
+                                <p>Kopi Enak</p>
+                                <p>(15)</p>
                               </a>
                             </li>
                           </ul>
@@ -483,50 +467,62 @@ function SeduhKopi2() {
                             className="widget_title"
                             style={{ color: "#2d2d2d" }}
                           >
-                            Recent Post
+                            Artikel Terkini
                           </h3>
-                          <div className="media post_item">
-                            <img src="assets/img/post/post_1.png" alt="post" />
+                          <div className="media post_item text-left">
+                            <img
+                              src="assets/img/Foto Kopi/moccachino1.png"
+                              alt="post"
+                            />
                             <div className="media-body">
                               <a href="blog_details.html">
                                 <h3 style={{ color: "#2d2d2d" }}>
-                                  From life was you fish...
+                                  Tren Minuman Kopi yang Harus Anda Coba!
                                 </h3>
                               </a>
-                              <p>January 12, 2019</p>
+                              <p>12 November 2023</p>
                             </div>
                           </div>
-                          <div className="media post_item">
-                            <img src="assets/img/post/post_2.png" alt="post" />
+                          <div className="media post_item text-left">
+                            <img
+                              src="assets/img/Foto Kopi/Americano1.jpg"
+                              alt="post"
+                            />
                             <div className="media-body">
                               <a href="blog_details.html">
                                 <h3 style={{ color: "#2d2d2d" }}>
-                                  The Amazing Hubble
+                                  Inovasi Terkini dalam Dunia Kopi
                                 </h3>
                               </a>
-                              <p>02 Hours ago</p>
+                              <p>13 November 2023</p>
                             </div>
                           </div>
-                          <div className="media post_item">
-                            <img src="assets/img/post/post_3.png" alt="post" />
+                          <div className="media post_item text-left">
+                            <img
+                              src="assets/img/Foto Kopi/bijikopi1.jpg"
+                              alt="post"
+                            />
                             <div className="media-body">
                               <a href="blog_details.html">
                                 <h3 style={{ color: "#2d2d2d" }}>
-                                  Astronomy Or Astrology
+                                  Sensasi Rasa Kopi
                                 </h3>
                               </a>
-                              <p>03 Hours ago</p>
+                              <p>14 November 2023</p>
                             </div>
                           </div>
-                          <div className="media post_item">
-                            <img src="assets/img/post/post_4.png" alt="post" />
+                          <div className="media post_item text-left">
+                            <img
+                              src="assets/img/Foto Kopi/kopikopi1.jpg"
+                              alt="post"
+                            />
                             <div className="media-body">
                               <a href="blog_details.html">
                                 <h3 style={{ color: "#2d2d2d" }}>
-                                  Asteroids telescope
+                                  Kreativitas dalam Secangkir Kopi
                                 </h3>
                               </a>
-                              <p>01 Hours ago</p>
+                              <p>15 November 2023</p>
                             </div>
                           </div>
                         </aside>
@@ -535,32 +531,32 @@ function SeduhKopi2() {
                             className="widget_title"
                             style={{ color: "#2d2d2d" }}
                           >
-                            Tag Clouds
+                            Tag
                           </h4>
                           <ul className="list">
                             <li>
-                              <a href="#">project</a>
+                              <a href="#">kopi</a>
                             </li>
                             <li>
-                              <a href="#">love</a>
+                              <a href="#">tren kopi</a>
                             </li>
                             <li>
-                              <a href="#">technology</a>
+                              <a href="#">teknologi</a>
                             </li>
                             <li>
-                              <a href="#">travel</a>
+                              <a href="#">kesehatan</a>
                             </li>
                             <li>
-                              <a href="#">restaurant</a>
+                              <a href="#">kedai kopi</a>
                             </li>
                             <li>
-                              <a href="#">life style</a>
+                              <a href="#">seduh kopi</a>
                             </li>
                             <li>
-                              <a href="#">design</a>
+                              <a href="#">sejarah kopi</a>
                             </li>
                             <li>
-                              <a href="#">illustration</a>
+                              <a href="#">pecinta kopi</a>
                             </li>
                           </ul>
                         </aside>
@@ -576,7 +572,7 @@ function SeduhKopi2() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_5.png"
+                                  src="assets/img/Foto Kopi/kopikopi1.jpg"
                                   alt=""
                                 />
                               </a>
@@ -585,7 +581,7 @@ function SeduhKopi2() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_6.png"
+                                  src="assets/img/Foto Kopi/moccachino1.png"
                                   alt=""
                                 />
                               </a>
@@ -594,7 +590,7 @@ function SeduhKopi2() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_7.png"
+                                  src="assets/img/Foto Kopi/bijikopi1.jpg"
                                   alt=""
                                 />
                               </a>
@@ -603,7 +599,7 @@ function SeduhKopi2() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_8.png"
+                                  src="assets/img/Foto Kopi/Americano1.jpg"
                                   alt=""
                                 />
                               </a>
@@ -612,7 +608,7 @@ function SeduhKopi2() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_9.png"
+                                  src="assets/img/Foto Kopi/kopi lelet.jpg"
                                   alt=""
                                 />
                               </a>
@@ -621,38 +617,12 @@ function SeduhKopi2() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_10.png"
+                                  src="assets/img/Foto Kopi/latte1.jpg"
                                   alt=""
                                 />
                               </a>
                             </li>
                           </ul>
-                        </aside>
-                        <aside className="single_sidebar_widget newsletter_widget">
-                          <h4
-                            className="widget_title"
-                            style={{ color: "#2d2d2d" }}
-                          >
-                            Newsletter
-                          </h4>
-                          <form action="#">
-                            <div className="form-group">
-                              <input
-                                type="email"
-                                className="form-control"
-                                onfocus="this.placeholder = ''"
-                                onblur="this.placeholder = 'Enter email'"
-                                placeholder="Enter email"
-                                required=""
-                              />
-                            </div>
-                            <button
-                              className="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
-                              type="submit"
-                            >
-                              Subscribe
-                            </button>
-                          </form>
                         </aside>
                       </div>
                     </div>
@@ -680,97 +650,52 @@ function SeduhKopi2() {
                               </a>
                             </div>
                             <div className="footer-tittle">
-                              <div className="footer-pera">
+                              <div className="footer-pera text-left">
                                 <p>
-                                  The automated process starts as soon as your
-                                  clothes go into the machine.
+                                  Menyediakan informasi mendalam tentang dunia
+                                  kopi, termasuk sejarah kopi, berbagai jenis
+                                  biji kopi, teknik pemanggangan, dan proses
+                                  penyeduhan.
                                 </p>
                               </div>
                             </div>
                             {/* social */}
-                            <div className="footer-social">
-                              <a href="#">
-                                <i className="fab fa-twitter" />
-                              </a>
-                              <a href="https://bit.ly/sai4ull">
-                                <i className="fab fa-facebook-f" />
-                              </a>
-                              <a href="#">
-                                <i className="fab fa-pinterest-p" />
-                              </a>
-                            </div>
                           </div>
                         </div>
                       </div>
                       <div className="col-xl-2 col-lg-3 col-md-4 col-sm-5">
                         <div className="single-footer-caption mb-50">
                           <div className="footer-tittle">
-                            <h4>Our solutions</h4>
+                            <h4>Hubungi Kami</h4>
                             <ul>
                               <li>
-                                <a href="#">Design &amp; creatives</a>
-                              </li>
-                              <li>
-                                <a href="#">Telecommunication</a>
-                              </li>
-                              <li>
-                                <a href="#">Restaurant</a>
-                              </li>
-                              <li>
-                                <a href="#">Programing</a>
-                              </li>
-                              <li>
-                                <a href="#">Architecture</a>
+                                <a href="#">
+                                  Coffeespace2023@gmail.com 0210-1234567
+                                </a>
                               </li>
                             </ul>
                           </div>
                         </div>
                       </div>
-                      <div className="col-xl-2 col-lg-4 col-md-4 col-sm-6">
+                      <div className="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                         <div className="single-footer-caption mb-50">
                           <div className="footer-tittle">
-                            <h4>Support</h4>
-                            <ul>
-                              <li>
-                                <a href="#">Design &amp; creatives</a>
-                              </li>
-                              <li>
-                                <a href="#">Telecommunication</a>
-                              </li>
-                              <li>
-                                <a href="#">Restaurant</a>
-                              </li>
-                              <li>
-                                <a href="#">Programing</a>
-                              </li>
-                              <li>
-                                <a href="#">Architecture</a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-xl-2 col-lg-3 col-md-4 col-sm-6">
-                        <div className="single-footer-caption mb-50">
-                          <div className="footer-tittle">
-                            <h4>Company</h4>
-                            <ul>
-                              <li>
-                                <a href="#">Design &amp; creatives</a>
-                              </li>
-                              <li>
-                                <a href="#">Telecommunication</a>
-                              </li>
-                              <li>
-                                <a href="#">Restaurant</a>
-                              </li>
-                              <li>
-                                <a href="#">Programing</a>
-                              </li>
-                              <li>
-                                <a href="#">Architecture</a>
-                              </li>
-                            </ul>
+                            <h4>Media Sosial</h4>
+                            {/* social */}
+                            <div className="footer-social">
+                              <a href="#">
+                                <i className="fab fa-twitter" />
+                              </a>
+                              <a href="#">
+                                <i className="fab fa-whatsapp" />
+                              </a>
+                              <a href="#">
+                                <i className="fab fa-youtube" />
+                              </a>
+                              <a href="#">
+                                <i className="fab fa-instagram" />
+                              </a>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -786,13 +711,7 @@ function SeduhKopi2() {
                           <div className="footer-copy-right text-center">
                             <p>
                               {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                              Copyright © All rights reserved | This template is
-                              made with{" "}
-                              <i className="fa fa-heart" aria-hidden="true" />{" "}
-                              by{" "}
-                              <a href="https://colorlib.com" target="_blank">
-                                Colorlib
-                              </a>
+                              © 2023 Coffee Space. All Rights Reserved.{" "}
                               {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                             </p>
                           </div>
@@ -811,4 +730,4 @@ function SeduhKopi2() {
   );
 }
 
-export default SeduhKopi2;
+export default SeduhKopi1;
