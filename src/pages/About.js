@@ -171,7 +171,7 @@ function About() {
                     <div className="single-footer-caption mb-50">
                       <div className="single-footer-caption mb-30">
                         {/* logo */}
-                        <div className="footer-logo mb-25">
+                        <div className="footer-logo mb-26 text-left">
                           <a href="index.html">
                             <img
                               src="assets/img/logo/logo2_footer.png"
