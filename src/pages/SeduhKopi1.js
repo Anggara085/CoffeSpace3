@@ -146,16 +146,6 @@ function SeduhKopi1() {
                                 <i className="fab fa-twitter" />
                               </a>
                             </li>
-                            <li>
-                              <a href="#">
-                                <i className="fab fa-dribbble" />
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i className="fab fa-behance" />
-                              </a>
-                            </li>
                           </ul>
                         </div>
                         <div className="navigation-area">
