@@ -49,73 +49,78 @@ function SeduhKopi1() {
                 <div className="container">
                   <div className="row">
                     <div className="col-lg-8 posts-list">
-                      <div className="single-post">
+                      <div className="single-post text-left">
                         <div className="feature-img">
                           <img
                             className="img-fluid"
-                            src="assets/img/blog/single_blog_1.png"
+                            src="assets/img/kopi/kopimadu.jpeg"
                             alt=""
                           />
                         </div>
                         <div className="blog_details">
                           <h2 style={{ color: "#2d2d2d" }}>
-                            Second divided from form fish beast made every of
-                            seas all gathered us saying he our
+                            “Racikan Kopi Campur Madu Lebih Menyehatkan? Ini
+                            Faktanya”
                           </h2>
                           <ul className="blog-info-link mt-3 mb-4">
                             <li>
                               <a href="#">
-                                <i className="fa fa-user" /> Travel, Lifestyle
+                                <i className="fa fa-user" /> Kopi dan Kesehatan,
+                                Kopi Enak
                               </a>
                             </li>
                             <li>
                               <a href="#">
-                                <i className="fa fa-comments" /> 03 Comments
+                                <i className="fa fa-comments" /> 03 Komentar
                               </a>
                             </li>
                           </ul>
                           <p className="excert">
-                            MCSE boot camps have its supporters and its
-                            detractors. Some people do not understand why you
-                            should have to spend money on boot camp when you can
-                            get the MCSE study materials yourself at a fraction
-                            of the camp price. However, who has the willpower
+                            Kopi bisa diracik menggunakan pemanis tambahan,
+                            kalau ingin yang alami bisa menambahkan madu.
+                            Ternyata, racikan kopi dan madu lebih
+                            menyehatkan.Racikan kopi yang biasa dikonsumsi saat
+                            pagi hari adalah kopi hitam. Sebagian orang yang
+                            ingin merasakan manfaat sehatnya, biasanya
+                            mengonsumsi kopi hitam polos tanpa gula. Kalau ingin
+                            rasa yang lebih nikmat, beberapa orang menambahkan
+                            gula pasir sebagai pemanis. Rasanya jadi lebih
+                            lembut dan pahitnya berkurang. Namun, racikan ini
+                            dianggap dapat mengganggu program diet. Sebagai
+                            alternatif, biasanya mengganti gula dengan madu.
+                            Namun, apakah rasa kopi akan tetap enak dengan
+                            menambahkan madu?
                           </p>
-                          <p>
-                            MCSE boot camps have its supporters and its
-                            detractors. Some people do not understand why you
-                            should have to spend money on boot camp when you can
-                            get the MCSE study materials yourself at a fraction
-                            of the camp price. However, who has the willpower to
-                            actually sit through a self-imposed MCSE training.
-                            who has the willpower to actually
-                          </p>
+                          <p></p>
                           <div className="quote-wrapper">
                             <div className="quotes">
-                              MCSE boot camps have its supporters and its
-                              detractors. Some people do not understand why you
-                              should have to spend money on boot camp when you
-                              can get the MCSE study materials yourself at a
-                              fraction of the camp price. However, who has the
-                              willpower to actually sit through a self-imposed
-                              MCSE training.
+                              Dilansir dari Portofolio Coffee (11/11), kopi yang
+                              ditambahkan madu tentunya akan menambahkan rasa
+                              manis. Rasanya tak hanya sebatas manis saja, tapi
+                              juga lebih kaya dengan memberikan sensasi aroma
+                              buah, bunga, kacang ataupun kayu. Madu bisa
+                              menjadi alternatif yang baik sebagai pengganti
+                              gula dalam kopi. Karena, madu disebut memiliki
+                              indeks glikemik yang sedikit lebih rendah
+                              dibandingkan dengan gula pasir biasa.
                             </div>
                           </div>
                           <p>
-                            MCSE boot camps have its supporters and its
-                            detractors. Some people do not understand why you
-                            should have to spend money on boot camp when you can
-                            get the MCSE study materials yourself at a fraction
-                            of the camp price. However, who has the willpower
-                          </p>
-                          <p>
-                            MCSE boot camps have its supporters and its
-                            detractors. Some people do not understand why you
-                            should have to spend money on boot camp when you can
-                            get the MCSE study materials yourself at a fraction
-                            of the camp price. However, who has the willpower to
-                            actually sit through a self-imposed MCSE training.
-                            who has the willpower to actually
+                            Indeks glikemik yang lebih rendah berarti tidak
+                            meningkatkan kadar gula darah dengan cepat. Meski
+                            begitu, takaran madu pada kopi juga perlu
+                            diperhatikan. Tentunya madu lebih banyak menyimpan
+                            manfaat untuk tubuh. Beberapa penelitian menyebutkan
+                            bahwa madu memiliki sifat anti-inflamasi,
+                            antikanker, antimikroba, dan lainnya. Dilihat dari
+                            kandungan kalori, madu jauh lebih besar kalorinya
+                            dari gula. Satu sendok makan madu memiliki 64
+                            kalori, sedangkan gula hanya 49 kalori saja.Walaupun
+                            kalori gula lebih rendah daripada madu, efeknya di
+                            dalam tubuh tidak menyehatkan. Karena gula sulit
+                            dicerna oleh tubuh, sedangkan madu yang terdiri dari
+                            glukosa dan fruktosa tidak dimurnikan akan lebih
+                            mudah dicerna oleh tubuh.
                           </p>
                         </div>
                       </div>
@@ -125,7 +130,7 @@ function SeduhKopi1() {
                             <span className="align-middle">
                               <i className="fa fa-heart" />
                             </span>{" "}
-                            Lily and 4 people like this
+                            Ahmad dan 4 lainnya menyukai ini
                           </p>
                           <div className="col-sm-4 text-center my-2 my-sm-0">
                             {/* <p class="comment-count"><span class="align-middle"><i class="fa fa-comment"></i></span> 06 Comments</p> */}
@@ -160,7 +165,7 @@ function SeduhKopi1() {
                                 <a href="#">
                                   <img
                                     className="img-fluid"
-                                    src="assets/img/post/preview.png"
+                                    src="assets/img/Foto Kopi/latte1.jpg"
                                     alt=""
                                   />
                                 </a>
@@ -171,20 +176,20 @@ function SeduhKopi1() {
                                 </a>
                               </div>
                               <div className="detials">
-                                <p>Prev Post</p>
+                                <p>Postingan Sebelumnya</p>
                                 <a href="#">
                                   <h4 style={{ color: "#2d2d2d" }}>
-                                    Space The Final Frontier
+                                    Kopi Latte Art Terunik
                                   </h4>
                                 </a>
                               </div>
                             </div>
                             <div className="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                               <div className="detials">
-                                <p>Next Post</p>
+                                <p>Postingan Selanjutnya</p>
                                 <a href="#">
                                   <h4 style={{ color: "#2d2d2d" }}>
-                                    Telescopes 101
+                                    Tren Kopi Lelet Rembang
                                   </h4>
                                 </a>
                               </div>
@@ -197,7 +202,7 @@ function SeduhKopi1() {
                                 <a href="#">
                                   <img
                                     className="img-fluid"
-                                    src="assets/img/post/next.png"
+                                    src="assets/img/Foto Kopi/kopi lelet.jpg"
                                     alt=""
                                   />
                                 </a>
@@ -207,45 +212,52 @@ function SeduhKopi1() {
                         </div>
                       </div>
                       <div className="blog-author">
-                        <div className="media align-items-center">
-                          <img src="assets/img/blog/author.png" alt="" />
-                          <div className="media-body">
+                        <div className="media align-items-left">
+                          <img src="assets/img/blog/anonim.png" alt="" />
+                          <div className="media-body text-left">
                             <a href="#">
-                              <h4>Harvard milan</h4>
+                              <h4>Rendy Gede</h4>
                             </a>
                             <p>
-                              Second divided from form fish beast made. Every of
-                              seas all gathered use saying you're, he our
-                              dominion twon Second divided from
+                              Saya sangat senang bisa berbagi artikel tentang
+                              kopi madu ini dengan Anda semua! Kombinasi antara
+                              kopi dan madu tidak hanya memberikan sentuhan rasa
+                              yang lezat, tetapi juga memberikan berbagai
+                              manfaat kesehatan yang luar biasa. Saya berharap
+                              artikel ini memberikan inspirasi kepada pembaca
+                              untuk mencoba sesuatu yang baru dan menikmati
+                              pengalaman minum kopi yang berbeda. Jangan ragu
+                              untuk berbagi pengalaman Anda setelah mencoba
+                              resep ini. Selamat menikmati kopi madu yang lezat
+                              dan sehat!
                             </p>
                           </div>
                         </div>
                       </div>
                       <div className="comments-area">
-                        <h4>05 Comments</h4>
-                        <div className="comment-list">
+                        <h4>03 Komentar</h4>
+                        <div className="comment-list text-left">
                           <div className="single-comment justify-content-between d-flex">
                             <div className="user justify-content-between d-flex">
                               <div className="thumb">
-                                <img
-                                  src="assets/img/blog/comment_1.png"
-                                  alt=""
-                                />
+                                <img src="assets/img/blog/anonim.png" alt="" />
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Multiply sea night grass fourth day sea lesser
-                                  rule open subdue female fill which them
-                                  Blessed, give fill lesser bearing multiply sea
-                                  night grass fourth day sea lesser
+                                  Menemukan artikel ini benar-benar membuat saya
+                                  penasaran tentang kopi madu. Saya senang bahwa
+                                  artikel ini memberikan informasi mendalam
+                                  tentang manfaat kesehatan kopi dan madu.
+                                  Rasanya seperti kombinasi yang sempurna antara
+                                  kelezatan dan kesehatan!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Emilly Blunt</a>
+                                      <a href="#">Andika Pratama</a>
                                     </h5>
                                     <p className="date">
-                                      December 4, 2017 at 3:12 pm{" "}
+                                      12 November 2023, 11:20 WIB{" "}
                                     </p>
                                   </div>
                                   <div className="reply-btn">
@@ -261,29 +273,28 @@ function SeduhKopi1() {
                             </div>
                           </div>
                         </div>
-                        <div className="comment-list">
+                        <div className="comment-list text-left">
                           <div className="single-comment justify-content-between d-flex">
                             <div className="user justify-content-between d-flex">
                               <div className="thumb">
-                                <img
-                                  src="assets/img/blog/comment_2.png"
-                                  alt=""
-                                />
+                                <img src="assets/img/blog/anonim.png" alt="" />
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Multiply sea night grass fourth day sea lesser
-                                  rule open subdue female fill which them
-                                  Blessed, give fill lesser bearing multiply sea
-                                  night grass fourth day sea lesser
+                                  Saya tidak pernah membayangkan bahwa kopi dan
+                                  madu dapat dipadukan dengan begitu harmonis.
+                                  Artikel ini memberikan wawasan yang bagus
+                                  tentang cara membuat kopi madu yang enak. Saya
+                                  yakin ini akan menjadi alternatif yang menarik
+                                  untuk rutinitas minum kopi saya setiap hari.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Emilly Blunt</a>
+                                      <a href="#">Dion Wibowo</a>
                                     </h5>
                                     <p className="date">
-                                      December 4, 2017 at 3:12 pm{" "}
+                                      12 November 2023, 12:00 WIB{" "}
                                     </p>
                                   </div>
                                   <div className="reply-btn">
@@ -299,29 +310,29 @@ function SeduhKopi1() {
                             </div>
                           </div>
                         </div>
-                        <div className="comment-list">
+                        <div className="comment-list text-left">
                           <div className="single-comment justify-content-between d-flex">
                             <div className="user justify-content-between d-flex">
                               <div className="thumb">
-                                <img
-                                  src="assets/img/blog/comment_3.png"
-                                  alt=""
-                                />
+                                <img src="assets/img/blog/anonim.png" alt="" />
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Multiply sea night grass fourth day sea lesser
-                                  rule open subdue female fill which them
-                                  Blessed, give fill lesser bearing multiply sea
-                                  night grass fourth day sea lesser
+                                  Kopi madu tampaknya menjadi tren baru yang
+                                  patut dicoba. Artikel ini memberikan informasi
+                                  yang jelas tentang manfaat kesehatan dari
+                                  kombinasi kopi dan madu, serta memberikan
+                                  ide-ide resep yang kreatif. Saya bersemangat
+                                  untuk mencoba variasi kopi ini untuk mengubah
+                                  pengalaman minum kopi saya.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Emilly Blunt</a>
+                                      <a href="#">Rina Sastro</a>
                                     </h5>
                                     <p className="date">
-                                      December 4, 2017 at 3:12 pm{" "}
+                                      12 November 2023, 13:12 WIB{" "}
                                     </p>
                                   </div>
                                   <div className="reply-btn">
@@ -339,7 +350,7 @@ function SeduhKopi1() {
                         </div>
                       </div>
                       <div className="comment-form">
-                        <h4>Leave a Reply</h4>
+                        <h4>Tinggalkan Komentar</h4>
                         <form
                           className="form-contact comment_form"
                           action="#"
@@ -354,7 +365,7 @@ function SeduhKopi1() {
                                   id="comment"
                                   cols={30}
                                   rows={9}
-                                  placeholder="Write Comment"
+                                  placeholder="Tulis Komentar"
                                   defaultValue={""}
                                 />
                               </div>
@@ -363,10 +374,10 @@ function SeduhKopi1() {
                               <div className="form-group">
                                 <input
                                   className="form-control"
-                                  name="name"
-                                  id="name"
+                                  name="nama"
+                                  id="nama"
                                   type="text"
-                                  placeholder="Name"
+                                  placeholder="Nama"
                                 />
                               </div>
                             </div>
@@ -398,7 +409,7 @@ function SeduhKopi1() {
                               type="submit"
                               className="button button-contactForm btn_1 boxed-btn"
                             >
-                              Post Comment
+                              Kirim Komentar
                             </button>
                           </div>
                         </form>
@@ -413,9 +424,9 @@ function SeduhKopi1() {
                                 <input
                                   type="text"
                                   className="form-control"
-                                  placeholder="Search Keyword"
+                                  placeholder="Cari Kata Kunci"
                                   onfocus="this.placeholder = ''"
-                                  onblur="this.placeholder = 'Search Keyword'"
+                                  onblur="this.placeholder = 'Cari Kata Kunci'"
                                 />
                                 <div className="input-group-append">
                                   <button className="btns" type="button">
@@ -428,7 +439,7 @@ function SeduhKopi1() {
                               className="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
                               type="submit"
                             >
-                              Search
+                              Cari
                             </button>
                           </form>
                         </aside>
@@ -437,43 +448,43 @@ function SeduhKopi1() {
                             className="widget_title"
                             style={{ color: "#2d2d2d" }}
                           >
-                            Category
+                            Kategori
                           </h4>
                           <ul className="list cat-list">
                             <li>
                               <a href="#" className="d-flex">
-                                <p>Resaurant food</p>
-                                <p>(37)</p>
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#" className="d-flex">
-                                <p>Travel news</p>
+                                <p>Sejarah Kopi</p>
                                 <p>(10)</p>
                               </a>
                             </li>
                             <li>
                               <a href="#" className="d-flex">
-                                <p>Modern technology</p>
-                                <p>(03)</p>
+                                <p>Jenis Kopi</p>
+                                <p>(15)</p>
                               </a>
                             </li>
                             <li>
                               <a href="#" className="d-flex">
-                                <p>Product</p>
+                                <p>Proses Pembuatan Kopi</p>
+                                <p>(07)</p>
+                              </a>
+                            </li>
+                            <li>
+                              <a href="#" className="d-flex">
+                                <p>Kopi dan Kesehatan</p>
                                 <p>(11)</p>
                               </a>
                             </li>
                             <li>
                               <a href="#" className="d-flex">
-                                <p>Inspiration</p>
-                                <p>(21)</p>
+                                <p>Berita dan Tren Kopi</p>
+                                <p>(10)</p>
                               </a>
                             </li>
                             <li>
                               <a href="#" className="d-flex">
-                                <p>Health Care</p>
-                                <p>(21)</p>
+                                <p>Kopi Enak</p>
+                                <p>(15)</p>
                               </a>
                             </li>
                           </ul>
@@ -483,50 +494,62 @@ function SeduhKopi1() {
                             className="widget_title"
                             style={{ color: "#2d2d2d" }}
                           >
-                            Recent Post
+                            Artikel Terkini
                           </h3>
-                          <div className="media post_item">
-                            <img src="assets/img/post/post_1.png" alt="post" />
+                          <div className="media post_item text-left">
+                            <img
+                              src="assets/img/Foto Kopi/moccachino1.png"
+                              alt="post"
+                            />
                             <div className="media-body">
                               <a href="blog_details.html">
                                 <h3 style={{ color: "#2d2d2d" }}>
-                                  From life was you fish...
+                                  Tren Minuman Kopi yang Harus Anda Coba!
                                 </h3>
                               </a>
-                              <p>January 12, 2019</p>
+                              <p>12 November 2023</p>
                             </div>
                           </div>
-                          <div className="media post_item">
-                            <img src="assets/img/post/post_2.png" alt="post" />
+                          <div className="media post_item text-left">
+                            <img
+                              src="assets/img/Foto Kopi/Americano1.jpg"
+                              alt="post"
+                            />
                             <div className="media-body">
                               <a href="blog_details.html">
                                 <h3 style={{ color: "#2d2d2d" }}>
-                                  The Amazing Hubble
+                                  Inovasi Terkini dalam Dunia Kopi
                                 </h3>
                               </a>
-                              <p>02 Hours ago</p>
+                              <p>13 November 2023</p>
                             </div>
                           </div>
-                          <div className="media post_item">
-                            <img src="assets/img/post/post_3.png" alt="post" />
+                          <div className="media post_item text-left">
+                            <img
+                              src="assets/img/Foto Kopi/bijikopi1.jpg"
+                              alt="post"
+                            />
                             <div className="media-body">
                               <a href="blog_details.html">
                                 <h3 style={{ color: "#2d2d2d" }}>
-                                  Astronomy Or Astrology
+                                  Sensasi Rasa Kopi
                                 </h3>
                               </a>
-                              <p>03 Hours ago</p>
+                              <p>14 November 2023</p>
                             </div>
                           </div>
-                          <div className="media post_item">
-                            <img src="assets/img/post/post_4.png" alt="post" />
+                          <div className="media post_item text-left">
+                            <img
+                              src="assets/img/Foto Kopi/kopikopi1.jpg"
+                              alt="post"
+                            />
                             <div className="media-body">
                               <a href="blog_details.html">
                                 <h3 style={{ color: "#2d2d2d" }}>
-                                  Asteroids telescope
+                                  Kreativitas dalam Secangkir Kopi
                                 </h3>
                               </a>
-                              <p>01 Hours ago</p>
+                              <p>15 November 2023</p>
                             </div>
                           </div>
                         </aside>
@@ -535,32 +558,32 @@ function SeduhKopi1() {
                             className="widget_title"
                             style={{ color: "#2d2d2d" }}
                           >
-                            Tag Clouds
+                            Tag
                           </h4>
                           <ul className="list">
                             <li>
-                              <a href="#">project</a>
+                              <a href="#">kopi</a>
                             </li>
                             <li>
-                              <a href="#">love</a>
+                              <a href="#">tren kopi</a>
                             </li>
                             <li>
-                              <a href="#">technology</a>
+                              <a href="#">teknologi</a>
                             </li>
                             <li>
-                              <a href="#">travel</a>
+                              <a href="#">kesehatan</a>
                             </li>
                             <li>
-                              <a href="#">restaurant</a>
+                              <a href="#">kedai kopi</a>
                             </li>
                             <li>
-                              <a href="#">life style</a>
+                              <a href="#">seduh kopi</a>
                             </li>
                             <li>
-                              <a href="#">design</a>
+                              <a href="#">sejarah kopi</a>
                             </li>
                             <li>
-                              <a href="#">illustration</a>
+                              <a href="#">pecinta kopi</a>
                             </li>
                           </ul>
                         </aside>
@@ -576,7 +599,7 @@ function SeduhKopi1() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_5.png"
+                                  src="assets/img/Foto Kopi/kopikopi1.jpg"
                                   alt=""
                                 />
                               </a>
@@ -585,7 +608,7 @@ function SeduhKopi1() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_6.png"
+                                  src="assets/img/Foto Kopi/moccachino1.png"
                                   alt=""
                                 />
                               </a>
@@ -594,7 +617,7 @@ function SeduhKopi1() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_7.png"
+                                  src="assets/img/Foto Kopi/bijikopi1.jpg"
                                   alt=""
                                 />
                               </a>
@@ -603,7 +626,7 @@ function SeduhKopi1() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_8.png"
+                                  src="assets/img/Foto Kopi/Americano1.jpg"
                                   alt=""
                                 />
                               </a>
@@ -612,7 +635,7 @@ function SeduhKopi1() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_9.png"
+                                  src="assets/img/Foto Kopi/kopi lelet.jpg"
                                   alt=""
                                 />
                               </a>
@@ -621,38 +644,12 @@ function SeduhKopi1() {
                               <a href="#">
                                 <img
                                   className="img-fluid"
-                                  src="assets/img/post/post_10.png"
+                                  src="assets/img/Foto Kopi/latte1.jpg"
                                   alt=""
                                 />
                               </a>
                             </li>
                           </ul>
-                        </aside>
-                        <aside className="single_sidebar_widget newsletter_widget">
-                          <h4
-                            className="widget_title"
-                            style={{ color: "#2d2d2d" }}
-                          >
-                            Newsletter
-                          </h4>
-                          <form action="#">
-                            <div className="form-group">
-                              <input
-                                type="email"
-                                className="form-control"
-                                onfocus="this.placeholder = ''"
-                                onblur="this.placeholder = 'Enter email'"
-                                placeholder="Enter email"
-                                required=""
-                              />
-                            </div>
-                            <button
-                              className="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
-                              type="submit"
-                            >
-                              Subscribe
-                            </button>
-                          </form>
                         </aside>
                       </div>
                     </div>
@@ -680,97 +677,52 @@ function SeduhKopi1() {
                               </a>
                             </div>
                             <div className="footer-tittle">
-                              <div className="footer-pera">
+                              <div className="footer-pera text-left">
                                 <p>
-                                  The automated process starts as soon as your
-                                  clothes go into the machine.
+                                  Menyediakan informasi mendalam tentang dunia
+                                  kopi, termasuk sejarah kopi, berbagai jenis
+                                  biji kopi, teknik pemanggangan, dan proses
+                                  penyeduhan.
                                 </p>
                               </div>
                             </div>
                             {/* social */}
-                            <div className="footer-social">
-                              <a href="#">
-                                <i className="fab fa-twitter" />
-                              </a>
-                              <a href="https://bit.ly/sai4ull">
-                                <i className="fab fa-facebook-f" />
-                              </a>
-                              <a href="#">
-                                <i className="fab fa-pinterest-p" />
-                              </a>
-                            </div>
                           </div>
                         </div>
                       </div>
                       <div className="col-xl-2 col-lg-3 col-md-4 col-sm-5">
                         <div className="single-footer-caption mb-50">
                           <div className="footer-tittle">
-                            <h4>Our solutions</h4>
+                            <h4>Hubungi Kami</h4>
                             <ul>
                               <li>
-                                <a href="#">Design &amp; creatives</a>
-                              </li>
-                              <li>
-                                <a href="#">Telecommunication</a>
-                              </li>
-                              <li>
-                                <a href="#">Restaurant</a>
-                              </li>
-                              <li>
-                                <a href="#">Programing</a>
-                              </li>
-                              <li>
-                                <a href="#">Architecture</a>
+                                <a href="#">
+                                  Coffeespace2023@gmail.com 0210-1234567
+                                </a>
                               </li>
                             </ul>
                           </div>
                         </div>
                       </div>
-                      <div className="col-xl-2 col-lg-4 col-md-4 col-sm-6">
+                      <div className="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                         <div className="single-footer-caption mb-50">
                           <div className="footer-tittle">
-                            <h4>Support</h4>
-                            <ul>
-                              <li>
-                                <a href="#">Design &amp; creatives</a>
-                              </li>
-                              <li>
-                                <a href="#">Telecommunication</a>
-                              </li>
-                              <li>
-                                <a href="#">Restaurant</a>
-                              </li>
-                              <li>
-                                <a href="#">Programing</a>
-                              </li>
-                              <li>
-                                <a href="#">Architecture</a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-xl-2 col-lg-3 col-md-4 col-sm-6">
-                        <div className="single-footer-caption mb-50">
-                          <div className="footer-tittle">
-                            <h4>Company</h4>
-                            <ul>
-                              <li>
-                                <a href="#">Design &amp; creatives</a>
-                              </li>
-                              <li>
-                                <a href="#">Telecommunication</a>
-                              </li>
-                              <li>
-                                <a href="#">Restaurant</a>
-                              </li>
-                              <li>
-                                <a href="#">Programing</a>
-                              </li>
-                              <li>
-                                <a href="#">Architecture</a>
-                              </li>
-                            </ul>
+                            <h4>Media Sosial</h4>
+                            {/* social */}
+                            <div className="footer-social">
+                              <a href="#">
+                                <i className="fab fa-twitter" />
+                              </a>
+                              <a href="#">
+                                <i className="fab fa-whatsapp" />
+                              </a>
+                              <a href="#">
+                                <i className="fab fa-youtube" />
+                              </a>
+                              <a href="#">
+                                <i className="fab fa-instagram" />
+                              </a>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -786,13 +738,7 @@ function SeduhKopi1() {
                           <div className="footer-copy-right text-center">
                             <p>
                               {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                              Copyright © All rights reserved | This template is
-                              made with{" "}
-                              <i className="fa fa-heart" aria-hidden="true" />{" "}
-                              by{" "}
-                              <a href="https://colorlib.com" target="_blank">
-                                Colorlib
-                              </a>
+                              © 2023 Coffee Space. All Rights Reserved.{" "}
                               {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                             </p>
                           </div>
