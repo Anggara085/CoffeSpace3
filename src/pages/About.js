@@ -67,9 +67,9 @@ function About() {
                     <div className="features-icon">
                       <img src="assets/img/icon/icon1.svg" alt="" />
                     </div>
-                    <div className="features-caption">
-                      <h3>60+ UX courses</h3>
-                      <p>The automated process all your website tasks.</p>
+                    <div className="features-caption text-left">
+                      <h3>Edukasi</h3>
+                      <p>Mendapatkan informasi terkini dan berguna.</p>
                     </div>
                   </div>
                 </div>
@@ -78,9 +78,9 @@ function About() {
                     <div className="features-icon">
                       <img src="assets/img/icon/icon2.svg" alt="" />
                     </div>
-                    <div className="features-caption">
-                      <h3>Expert instructors</h3>
-                      <p>The automated process all your website tasks.</p>
+                    <div className="features-caption text-left">
+                      <h3>Pelatihan Barista</h3>
+                      <p>Pelatihan intensif dari para ahli industri kopi.</p>
                     </div>
                   </div>
                 </div>
@@ -89,58 +89,41 @@ function About() {
                     <div className="features-icon">
                       <img src="assets/img/icon/icon3.svg" alt="" />
                     </div>
-                    <div className="features-caption">
-                      <h3>Life time access</h3>
-                      <p>The automated process all your website tasks.</p>
+                    <div className="features-caption text-left">
+                      <h3>Rekomendasi</h3>
+                      <p>Coffee space merekomendasi resep kopi kreatif. </p>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-
-          <section className="section-top-border">
+          <section className="section-top-border text-center">
             <h3 className="mb-30">VISI DAN MISI</h3>
-            <div className="row">
+            <div className="row justify-content-center">
               <div className="col-md-4">
                 <div className="single-defination">
-                  <h4 className="mb-20">Definition 01</h4>
+                  <h4 className="mb-20">VISI</h4>
                   <p>
-                    Recently, the US Federal government banned online casinos
-                    from operating in America by making it illegal to transfer
-                    money to them through any US bank or payment system. As a
-                    result of this law, most of the popular online casino
-                    networks
+                    Menjadi tujuan utama bagi pecinta kopi yang mencari
+                    pengetahuan mendalam dan pengalaman yang memperkaya dalam
+                    dunia kopi.
                   </p>
                 </div>
               </div>
+
               <div className="col-md-4">
                 <div className="single-defination">
-                  <h4 className="mb-20">Definition 02</h4>
+                  <h4 className="mb-20">MISI</h4>
                   <p>
-                    Recently, the US Federal government banned online casinos
-                    from operating in America by making it illegal to transfer
-                    money to them through any US bank or payment system. As a
-                    result of this law, most of the popular online casino
-                    networks
-                  </p>
-                </div>
-              </div>
-              <div className="col-md-4">
-                <div className="single-defination">
-                  <h4 className="mb-20">Definition 03</h4>
-                  <p>
-                    Recently, the US Federal government banned online casinos
-                    from operating in America by making it illegal to transfer
-                    money to them through any US bank or payment system. As a
-                    result of this law, most of the popular online casino
-                    networks
+                    Menjadi sumber utama pengetahuan yang mendalam tentang
+                    berbagai aspek dunia kopi, dari sejarah hingga teknik
+                    penyeduhan.
                   </p>
                 </div>
               </div>
             </div>
           </section>
-
           <>
             {/*? About Area-2 Start */}
             <section className="about-area2 fix pb-padding ">
@@ -148,7 +131,7 @@ function About() {
                 <div className="right-content2">
                   {/* img */}
                   <div className="right-img">
-                    <img src="assets/img/gallery/about2.png" alt="" />
+                    <img src="assets/img/kopi/about2.jpg" alt="" />
                   </div>
                 </div>
                 <div className="left-content2">
@@ -156,16 +139,17 @@ function About() {
                   <div className="section-tittle section-tittle2 mb-20">
                     <div className="front-text">
                       <h2 className="">
-                        Take the next step toward your personal and professional
-                        goals with us.
+                        "Berkembanglah Sebagai Barista Profesional!"
                       </h2>
                       <p>
-                        The automated process all your website tasks. Discover
-                        tools and techniques to engage effectively with
-                        vulnerable children and young people.
+                        Pelatihan Intensif Belajar dari para ahli industri kopi
+                        dalam pelatihan intensif kami. Teknik Latte Art Kuasai
+                        seni membuat latte art yang memikat hati pelanggan Anda.
+                        Pelatihan Berkelanjutan Ikuti pembaruan tren terbaru
+                        dalam industri kopi.
                       </p>
                       <a href="register.html" className="btn">
-                        Join now for Free
+                        Hubungi Kami
                       </a>
                     </div>
                   </div>
@@ -196,97 +180,48 @@ function About() {
                           </a>
                         </div>
                         <div className="footer-tittle">
-                          <div className="footer-pera">
+                          <div className="footer-pera text-left">
                             <p>
-                              The automated process starts as soon as your
-                              clothes go into the machine.
+Menyediakan informasi mendalam tentang dunia kopi, termasuk sejarah kopi, berbagai jenis biji kopi, teknik pemanggangan, dan proses penyeduhan.
                             </p>
                           </div>
                         </div>
                         {/* social */}
-                        <div className="footer-social">
-                          <a href="#">
-                            <i className="fab fa-twitter" />
-                          </a>
-                          <a href="https://bit.ly/sai4ull">
-                            <i className="fab fa-facebook-f" />
-                          </a>
-                          <a href="#">
-                            <i className="fab fa-pinterest-p" />
-                          </a>
-                        </div>
+                       
                       </div>
                     </div>
                   </div>
                   <div className="col-xl-2 col-lg-3 col-md-4 col-sm-5">
                     <div className="single-footer-caption mb-50">
                       <div className="footer-tittle">
-                        <h4>Our solutions</h4>
+                        <h4>Hubungi Kami</h4>
                         <ul>
                           <li>
-                            <a href="#">Design &amp; creatives</a>
-                          </li>
-                          <li>
-                            <a href="#">Telecommunication</a>
-                          </li>
-                          <li>
-                            <a href="#">Restaurant</a>
-                          </li>
-                          <li>
-                            <a href="#">Programing</a>
-                          </li>
-                          <li>
-                            <a href="#">Architecture</a>
+                            <a href="#">Coffeespace2023@gmail.com 0210-1234567</a>
                           </li>
                         </ul>
                       </div>
                     </div>
                   </div>
-                  <div className="col-xl-2 col-lg-4 col-md-4 col-sm-6">
+                  <div className="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                     <div className="single-footer-caption mb-50">
                       <div className="footer-tittle">
-                        <h4>Support</h4>
-                        <ul>
-                          <li>
-                            <a href="#">Design &amp; creatives</a>
-                          </li>
-                          <li>
-                            <a href="#">Telecommunication</a>
-                          </li>
-                          <li>
-                            <a href="#">Restaurant</a>
-                          </li>
-                          <li>
-                            <a href="#">Programing</a>
-                          </li>
-                          <li>
-                            <a href="#">Architecture</a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="col-xl-2 col-lg-3 col-md-4 col-sm-6">
-                    <div className="single-footer-caption mb-50">
-                      <div className="footer-tittle">
-                        <h4>Company</h4>
-                        <ul>
-                          <li>
-                            <a href="#">Design &amp; creatives</a>
-                          </li>
-                          <li>
-                            <a href="#">Telecommunication</a>
-                          </li>
-                          <li>
-                            <a href="#">Restaurant</a>
-                          </li>
-                          <li>
-                            <a href="#">Programing</a>
-                          </li>
-                          <li>
-                            <a href="#">Architecture</a>
-                          </li>
-                        </ul>
+                        <h4>Media Sosial</h4>
+                         {/* social */}
+                         <div className="footer-social">
+                          <a href="#">
+                            <i className="fab fa-twitter" />
+                          </a>
+                          <a href="#">
+                            <i className="fab fa-whatsapp" />
+                          </a>
+                          <a href="#">
+                            <i className="fab fa-youtube" />
+                          </a>
+                          <a href="#">
+                            <i className="fab fa-instagram" />
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -302,12 +237,8 @@ function About() {
                       <div className="footer-copy-right text-center">
                         <p>
                           {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                          Copyright © All rights reserved | This template is
-                          made with{" "}
-                          <i className="fa fa-heart" aria-hidden="true" /> by{" "}
-                          <a href="https://colorlib.com" target="_blank">
-                            Colorlib
-                          </a>
+                          © 2023 Coffee Space. All Rights Reserved.{" "}
+                          
                           {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                         </p>
                       </div>
@@ -333,3 +264,4 @@ function About() {
 }
 
 export default About;
+
