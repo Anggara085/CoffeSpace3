@@ -464,23 +464,12 @@ function Index() {
                         <div className="footer-tittle">
                           <div className="footer-pera text-left">
                             <p>
-                            Coffee Space
 Menyediakan informasi mendalam tentang dunia kopi, termasuk sejarah kopi, berbagai jenis biji kopi, teknik pemanggangan, dan proses penyeduhan.
                             </p>
                           </div>
                         </div>
                         {/* social */}
-                        <div className="footer-social">
-                          <a href="#">
-                            <i className="fab fa-twitter" />
-                          </a>
-                          <a href="https://bit.ly/sai4ull">
-                            <i className="fab fa-facebook-f" />
-                          </a>
-                          <a href="#">
-                            <i className="fab fa-pinterest-p" />
-                          </a>
-                        </div>
+                       
                       </div>
                     </div>
                   </div>
@@ -496,7 +485,7 @@ Menyediakan informasi mendalam tentang dunia kopi, termasuk sejarah kopi, berbag
                       </div>
                     </div>
                   </div>
-                  <div className="col-xl-2 col-lg-3 col-md-4 col-sm-6">
+                  <div className="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                     <div className="single-footer-caption mb-50">
                       <div className="footer-tittle">
                         <h4>Media Sosial</h4>
