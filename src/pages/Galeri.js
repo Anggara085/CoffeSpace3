@@ -230,8 +230,7 @@ function Galeri() {
                         <ul className="blog-info-link">
                           <li>
                             <a href="#">
-                              <i className="fa fa-user" /> Sejarah Kopi,
-                              Lifestyle
+                              <i className="fa fa-user" /> Sejarah Kopi
                             </a>
                           </li>
                           <li>
