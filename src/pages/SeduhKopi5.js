@@ -53,14 +53,13 @@ function SeduhKopi5() {
                         <div className="feature-img">
                           <img
                             className="img-fluid"
-                            src="assets/img/kopi/kopimadu.jpeg"
+                            src="assets/img/blog/seduhKopi (5).jpeg"
                             alt=""
                           />
                         </div>
                         <div className="blog_details">
                           <h2 style={{ color: "#2d2d2d" }}>
-                            “Racikan Kopi Campur Madu Lebih Menyehatkan? Ini
-                            Faktanya”
+                            “Kopi: Lebih dari Sekadar Minuman, Ini Seni dan Budaya”
                           </h2>
                           <ul className="blog-info-link mt-3 mb-4">
                             <li>
@@ -76,51 +75,29 @@ function SeduhKopi5() {
                             </li>
                           </ul>
                           <p className="excert">
-                            Kopi bisa diracik menggunakan pemanis tambahan,
-                            kalau ingin yang alami bisa menambahkan madu.
-                            Ternyata, racikan kopi dan madu lebih
-                            menyehatkan.Racikan kopi yang biasa dikonsumsi saat
-                            pagi hari adalah kopi hitam. Sebagian orang yang
-                            ingin merasakan manfaat sehatnya, biasanya
-                            mengonsumsi kopi hitam polos tanpa gula. Kalau ingin
-                            rasa yang lebih nikmat, beberapa orang menambahkan
-                            gula pasir sebagai pemanis. Rasanya jadi lebih
-                            lembut dan pahitnya berkurang. Namun, racikan ini
-                            dianggap dapat mengganggu program diet. Sebagai
-                            alternatif, biasanya mengganti gula dengan madu.
-                            Namun, apakah rasa kopi akan tetap enak dengan
-                            menambahkan madu?
+                          Kopi tidak sekadar minuman untuk membangunkan diri di pagi hari, 
+                          itu juga memperkenalkan kita pada warisan budaya dan seni yang kaya. 
+                          Kopi bukan hanya minuman, tetapi ritual yang melibatkan kesabaran dan perhatian. 
+                          Dalam budaya tertentu, menyeduh dan menyajikan kopi memiliki makna dan 
+                          prosesi tersendiri.
                           </p>
                           <p></p>
                           <div className="quote-wrapper">
                             <div className="quotes">
-                              Dilansir dari Portofolio Coffee (11/11), kopi yang
-                              ditambahkan madu tentunya akan menambahkan rasa
-                              manis. Rasanya tak hanya sebatas manis saja, tapi
-                              juga lebih kaya dengan memberikan sensasi aroma
-                              buah, bunga, kacang ataupun kayu. Madu bisa
-                              menjadi alternatif yang baik sebagai pengganti
-                              gula dalam kopi. Karena, madu disebut memiliki
-                              indeks glikemik yang sedikit lebih rendah
-                              dibandingkan dengan gula pasir biasa.
+                            Kopi membawa cerita perjalanan yang panjang, dari perkebunan hingga 
+                            ke cangkir kita. Setiap jenis kopi memiliki cerita asal yang unik 
+                            dari wilayahnya masing-masing. Kopi bukan hanya tentang rasa atau kafein, 
+                            tapi juga tentang sejarah, warisan, dan interaksi sosial yang 
+                            menghubungkan orang dari berbagai latar belakang budaya di seluruh dunia.
                             </div>
                           </div>
                           <p>
-                            Indeks glikemik yang lebih rendah berarti tidak
-                            meningkatkan kadar gula darah dengan cepat. Meski
-                            begitu, takaran madu pada kopi juga perlu
-                            diperhatikan. Tentunya madu lebih banyak menyimpan
-                            manfaat untuk tubuh. Beberapa penelitian menyebutkan
-                            bahwa madu memiliki sifat anti-inflamasi,
-                            antikanker, antimikroba, dan lainnya. Dilihat dari
-                            kandungan kalori, madu jauh lebih besar kalorinya
-                            dari gula. Satu sendok makan madu memiliki 64
-                            kalori, sedangkan gula hanya 49 kalori saja.Walaupun
-                            kalori gula lebih rendah daripada madu, efeknya di
-                            dalam tubuh tidak menyehatkan. Karena gula sulit
-                            dicerna oleh tubuh, sedangkan madu yang terdiri dari
-                            glukosa dan fruktosa tidak dimurnikan akan lebih
-                            mudah dicerna oleh tubuh.
+                          Kopi adalah lebih dari sekadar minuman; itu adalah seni dan budaya yang 
+                          menciptakan pengalaman yang melibatkan semua indera. Dari seni persiapan 
+                          hingga kedai kopi yang menjadi pusat kehidupan sosial, dunia kopi adalah 
+                          arena tempat seni dan budaya bersatu. Mari nikmati setiap tegukan sebagai 
+                          sebuah perjalanan melalui rasa, aroma, dan kreativitas yang melibatkan kita 
+                          dalam keajaiban kopi yang tak terbatas.
                           </p>
                         </div>
                       </div>
@@ -209,17 +186,15 @@ function SeduhKopi5() {
                               <h4>Rendy Gede</h4>
                             </a>
                             <p>
-                              Saya sangat senang bisa berbagi artikel tentang
-                              kopi madu ini dengan Anda semua! Kombinasi antara
-                              kopi dan madu tidak hanya memberikan sentuhan rasa
-                              yang lezat, tetapi juga memberikan berbagai
-                              manfaat kesehatan yang luar biasa. Saya berharap
-                              artikel ini memberikan inspirasi kepada pembaca
-                              untuk mencoba sesuatu yang baru dan menikmati
-                              pengalaman minum kopi yang berbeda. Jangan ragu
-                              untuk berbagi pengalaman Anda setelah mencoba
-                              resep ini. Selamat menikmati kopi madu yang lezat
-                              dan sehat!
+                            Dalam setiap tegukan kopi, kita tidak hanya menikmati rasa 
+                            dan aroma yang memanjakan lidah, tetapi juga merasakan sentuhan 
+                            seni dan budaya yang melebur dalam minuman ini. Artikel ini 
+                            mengajak kita untuk merayakan keunikan kopi sebagai lebih dari 
+                            sekadar minuman; itu adalah pengalaman seni dan budaya yang 
+                            menghidupkan kembali jiwa dan merayakan keindahan setiap momen. 
+                            Mari terus menikmati dan mengeksplorasi kekayaan dunia kopi, 
+                            karena di setiap tegukan, terdapat kisah seni dan kehidupan 
+                            yang menunggu untuk ditemukan.
                             </p>
                           </div>
                         </div>
@@ -234,17 +209,17 @@ function SeduhKopi5() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Menemukan artikel ini benar-benar membuat saya
-                                  penasaran tentang kopi madu. Saya senang bahwa
-                                  artikel ini memberikan informasi mendalam
-                                  tentang manfaat kesehatan kopi dan madu.
-                                  Rasanya seperti kombinasi yang sempurna antara
-                                  kelezatan dan kesehatan!
+                                Artikel ini membawa kita ke dalam dunia kopi sebagai lebih dari 
+                                sekadar minuman; ia menggambarkan kopi sebagai seni dan budaya 
+                                yang mendalam. Penjelasan tentang proses persiapan kopi sebagai 
+                                seni yang melibatkan keterampilan dan perhatian terhadap detail 
+                                memberikan apresiasi baru terhadap minuman yang sering kita 
+                                nikmati secara tergesa-gesa.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Andika Pratama</a>
+                                      <a href="#">Rio Pratama</a>
                                     </h5>
                                     <p className="date">
                                       12 November 2023, 11:20 WIB{" "}
@@ -271,17 +246,16 @@ function SeduhKopi5() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Saya tidak pernah membayangkan bahwa kopi dan
-                                  madu dapat dipadukan dengan begitu harmonis.
-                                  Artikel ini memberikan wawasan yang bagus
-                                  tentang cara membuat kopi madu yang enak. Saya
-                                  yakin ini akan menjadi alternatif yang menarik
-                                  untuk rutinitas minum kopi saya setiap hari.
+                                Pentingnya kedai kopi sebagai pusat budaya dan tempat berkumpul 
+                                menyoroti bagaimana kopi telah melampaui sekadar minuman dan 
+                                menjadi suatu bentuk pengalaman sosial. Setiap kedai kopi 
+                                mencerminkan identitas budaya lokal, menciptakan ruang 
+                                unik yang mempertemukan orang-orang dengan minat dan gaya hidup yang serupa.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Dion Wibowo</a>
+                                      <a href="#">Tiara Melani</a>
                                     </h5>
                                     <p className="date">
                                       12 November 2023, 12:00 WIB{" "}
@@ -308,18 +282,17 @@ function SeduhKopi5() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                  Kopi madu tampaknya menjadi tren baru yang
-                                  patut dicoba. Artikel ini memberikan informasi
-                                  yang jelas tentang manfaat kesehatan dari
-                                  kombinasi kopi dan madu, serta memberikan
-                                  ide-ide resep yang kreatif. Saya bersemangat
-                                  untuk mencoba variasi kopi ini untuk mengubah
-                                  pengalaman minum kopi saya.
+                                Artikel ini berhasil membuka mata kita tentang kedalaman dan 
+                                keanekaragaman dunia kopi sebagai sebuah seni dan budaya. 
+                                Ini mengajak kita untuk melihat secangkir kopi dengan mata 
+                                yang lebih bijak, menghargai lebih dari sekadar rasa, 
+                                tetapi juga kreativitas, sejarah, dan konektivitas yang 
+                                terwujud dalam setiap tegukan.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Rina Sastro</a>
+                                      <a href="#">Rizki Kurniawan</a>
                                     </h5>
                                     <p className="date">
                                       12 November 2023, 13:12 WIB{" "}
@@ -658,7 +631,7 @@ function SeduhKopi5() {
                         <div className="single-footer-caption mb-50">
                           <div className="single-footer-caption mb-30">
                             {/* logo */}
-                            <div className="footer-logo mb-25">
+                            <div className="footer-logo mb-26 text-left">
                               <a href="index.html">
                                 <img
                                   src="assets/img/logo/logo2_footer.png"
