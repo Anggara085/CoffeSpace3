@@ -53,13 +53,14 @@ function SeduhKopi5() {
                         <div className="feature-img">
                           <img
                             className="img-fluid"
-                            src="assets/img/blog/seduhKopi (5).jpeg"
+                            src="assets/img/kopi/proseskopi.jpeg"
                             alt=""
                           />
                         </div>
                         <div className="blog_details">
                           <h2 style={{ color: "#2d2d2d" }}>
-                            “Kopi: Lebih dari Sekadar Minuman, Ini Seni dan Budaya”
+                            Cerita Perjalanan dan Proses Pengolahan Kopi sampai
+                            Siap Diseduh
                           </h2>
                           <ul className="blog-info-link mt-3 mb-4">
                             <li>
@@ -75,29 +76,35 @@ function SeduhKopi5() {
                             </li>
                           </ul>
                           <p className="excert">
-                          Kopi tidak sekadar minuman untuk membangunkan diri di pagi hari, 
-                          itu juga memperkenalkan kita pada warisan budaya dan seni yang kaya. 
-                          Kopi bukan hanya minuman, tetapi ritual yang melibatkan kesabaran dan perhatian. 
-                          Dalam budaya tertentu, menyeduh dan menyajikan kopi memiliki makna dan 
-                          prosesi tersendiri.
+                            Sebelum bisa diseduh, diteguk, dan dinikmati di
+                            rumah maupun coffee shop, kopi mengalami cerita
+                            perjalanan dan proses pengolahan yang panjang.
+                            Proses tersebut terdiri atas pemanenan, penjemuran,
+                            penyangraian, hingga penyeduhan sampai jadi minuman
+                            yang mantap.
                           </p>
                           <p></p>
                           <div className="quote-wrapper">
                             <div className="quotes">
-                            Kopi membawa cerita perjalanan yang panjang, dari perkebunan hingga 
-                            ke cangkir kita. Setiap jenis kopi memiliki cerita asal yang unik 
-                            dari wilayahnya masing-masing. Kopi bukan hanya tentang rasa atau kafein, 
-                            tapi juga tentang sejarah, warisan, dan interaksi sosial yang 
-                            menghubungkan orang dari berbagai latar belakang budaya di seluruh dunia.
+                              Kopi membawa cerita perjalanan yang panjang, dari
+                              perkebunan hingga ke cangkir kita. Setiap jenis
+                              kopi memiliki cerita asal yang unik dari
+                              wilayahnya masing-masing. Kopi bukan hanya tentang
+                              rasa atau kafein, tapi juga tentang sejarah,
+                              warisan, dan interaksi sosial yang menghubungkan
+                              orang dari berbagai latar belakang budaya di
+                              seluruh dunia.
                             </div>
                           </div>
                           <p>
-                          Kopi adalah lebih dari sekadar minuman; itu adalah seni dan budaya yang 
-                          menciptakan pengalaman yang melibatkan semua indera. Dari seni persiapan 
-                          hingga kedai kopi yang menjadi pusat kehidupan sosial, dunia kopi adalah 
-                          arena tempat seni dan budaya bersatu. Mari nikmati setiap tegukan sebagai 
-                          sebuah perjalanan melalui rasa, aroma, dan kreativitas yang melibatkan kita 
-                          dalam keajaiban kopi yang tak terbatas.
+                            Proses ini turut memberikan kontribusi dalam hal
+                            karakter dan cita rasanya. Apalagi, proses yang
+                            digunakan bisa bermacam-macam dan masing-masing
+                            menghasilkan keunikan rasa tersendiri. Rasa yang
+                            dihasilkan dari jenis buah yang sama bisa berbeda
+                            hanya karena ditanam di tempat yang berbeda, apalagi
+                            dengan proses pengolahan yang variatif. Hal inilah
+                            yang membuat kopi begitu unik dan misterius.
                           </p>
                         </div>
                       </div>
@@ -186,15 +193,18 @@ function SeduhKopi5() {
                               <h4>Rendy Gede</h4>
                             </a>
                             <p>
-                            Dalam setiap tegukan kopi, kita tidak hanya menikmati rasa 
-                            dan aroma yang memanjakan lidah, tetapi juga merasakan sentuhan 
-                            seni dan budaya yang melebur dalam minuman ini. Artikel ini 
-                            mengajak kita untuk merayakan keunikan kopi sebagai lebih dari 
-                            sekadar minuman; itu adalah pengalaman seni dan budaya yang 
-                            menghidupkan kembali jiwa dan merayakan keindahan setiap momen. 
-                            Mari terus menikmati dan mengeksplorasi kekayaan dunia kopi, 
-                            karena di setiap tegukan, terdapat kisah seni dan kehidupan 
-                            yang menunggu untuk ditemukan.
+                              Dalam setiap tegukan kopi, kita tidak hanya
+                              menikmati rasa dan aroma yang memanjakan lidah,
+                              tetapi juga merasakan sentuhan seni dan budaya
+                              yang melebur dalam minuman ini. Artikel ini
+                              mengajak kita untuk merayakan keunikan kopi
+                              sebagai lebih dari sekadar minuman; itu adalah
+                              pengalaman seni dan budaya yang menghidupkan
+                              kembali jiwa dan merayakan keindahan setiap momen.
+                              Mari terus menikmati dan mengeksplorasi kekayaan
+                              dunia kopi, karena di setiap tegukan, terdapat
+                              kisah seni dan kehidupan yang menunggu untuk
+                              ditemukan.
                             </p>
                           </div>
                         </div>
@@ -209,12 +219,14 @@ function SeduhKopi5() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                Artikel ini membawa kita ke dalam dunia kopi sebagai lebih dari 
-                                sekadar minuman; ia menggambarkan kopi sebagai seni dan budaya 
-                                yang mendalam. Penjelasan tentang proses persiapan kopi sebagai 
-                                seni yang melibatkan keterampilan dan perhatian terhadap detail 
-                                memberikan apresiasi baru terhadap minuman yang sering kita 
-                                nikmati secara tergesa-gesa.
+                                  Artikel ini membawa kita ke dalam dunia kopi
+                                  sebagai lebih dari sekadar minuman; ia
+                                  menggambarkan kopi sebagai seni dan budaya
+                                  yang mendalam. Penjelasan tentang proses
+                                  persiapan kopi sebagai seni yang melibatkan
+                                  keterampilan dan perhatian terhadap detail
+                                  memberikan apresiasi baru terhadap minuman
+                                  yang sering kita nikmati secara tergesa-gesa.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
@@ -246,11 +258,14 @@ function SeduhKopi5() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                Pentingnya kedai kopi sebagai pusat budaya dan tempat berkumpul 
-                                menyoroti bagaimana kopi telah melampaui sekadar minuman dan 
-                                menjadi suatu bentuk pengalaman sosial. Setiap kedai kopi 
-                                mencerminkan identitas budaya lokal, menciptakan ruang 
-                                unik yang mempertemukan orang-orang dengan minat dan gaya hidup yang serupa.
+                                  Pentingnya kedai kopi sebagai pusat budaya dan
+                                  tempat berkumpul menyoroti bagaimana kopi
+                                  telah melampaui sekadar minuman dan menjadi
+                                  suatu bentuk pengalaman sosial. Setiap kedai
+                                  kopi mencerminkan identitas budaya lokal,
+                                  menciptakan ruang unik yang mempertemukan
+                                  orang-orang dengan minat dan gaya hidup yang
+                                  serupa.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
@@ -282,12 +297,14 @@ function SeduhKopi5() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                Artikel ini berhasil membuka mata kita tentang kedalaman dan 
-                                keanekaragaman dunia kopi sebagai sebuah seni dan budaya. 
-                                Ini mengajak kita untuk melihat secangkir kopi dengan mata 
-                                yang lebih bijak, menghargai lebih dari sekadar rasa, 
-                                tetapi juga kreativitas, sejarah, dan konektivitas yang 
-                                terwujud dalam setiap tegukan.
+                                  Artikel ini berhasil membuka mata kita tentang
+                                  kedalaman dan keanekaragaman dunia kopi
+                                  sebagai sebuah seni dan budaya. Ini mengajak
+                                  kita untuk melihat secangkir kopi dengan mata
+                                  yang lebih bijak, menghargai lebih dari
+                                  sekadar rasa, tetapi juga kreativitas,
+                                  sejarah, dan konektivitas yang terwujud dalam
+                                  setiap tegukan.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
