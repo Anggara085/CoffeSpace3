@@ -50,8 +50,7 @@ function Index() {
                     <div className="features-caption">
                       <h3>Edukasi</h3>
                       <p>
-                        Mendapatkan informasi terkini dan berguna dalam
-                        perjalanan mereka untuk memahami dunia kopi lebih baik.
+                      Pelatihan intensif dari para ahli industri kopi.
                       </p>
                     </div>
                   </div>
@@ -64,8 +63,7 @@ function Index() {
                     <div className="features-caption">
                       <h3>Pelatihan Barista</h3>
                       <p>
-                        Belajar dari para ahli industri kopi dalam pelatihan
-                        intensif kami lebih baik.
+                      Pelatihan intensif dari para ahli industri kopi.
                       </p>
                     </div>
                   </div>
@@ -76,10 +74,9 @@ function Index() {
                       <img src="assets/img/icon/icon3.svg" alt="" />
                     </div>
                     <div className="features-caption">
-                      <h3>Rekomendasi & Resep Kreatif</h3>
+                      <h3>Rekomendasi </h3>
                       <p>
-                        Temukan keajaiban resep kopi di coffee space dengan
-                        rekomendasi kami untuk resep kopi kreatif.{" "}
+                      Coffee space merekomendasi resep kopi kreatif.
                       </p>
                     </div>
                   </div>
@@ -120,23 +117,7 @@ function Index() {
                           ingin yang alami bisa menambahkan madu. Ternyata,
                           racikan kopi dan madu lebih menyehatkan.
                         </p>
-                        <div className="properties__footer d-flex justify-content-between align-items-center">
-                          <div className="restaurant-name">
-                            <div className="rating">
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star-half" />
-                            </div>
-                            <p>
-                              <span>(4.5)</span> based on 120
-                            </p>
-                          </div>
-                          <div className="price">
-                            <span>$135</span>
-                          </div>
-                        </div>
+                       
                         <a href="#" className="border-btn border-btn2">
                           Jelajahi Lebih Lanjut
                         </a>
@@ -167,23 +148,7 @@ function Index() {
                           racikan kopi. Racikan kopi ini ada yang dicampur
                           dengan jamur sampai mentega tawar.
                         </p>
-                        <div className="properties__footer d-flex justify-content-between align-items-center">
-                          <div className="restaurant-name">
-                            <div className="rating">
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star-half" />
-                            </div>
-                            <p>
-                              <span>(4.5)</span> based on 120
-                            </p>
-                          </div>
-                          <div className="price">
-                            <span>$135</span>
-                          </div>
-                        </div>
+                      
                         <a href="#" className="border-btn border-btn2">
                           Jelajahi Lebih Lanjut
                         </a>
@@ -212,23 +177,7 @@ function Index() {
                           kesehatan. Tak heran jika rutinitas yang satu ini
                           digemari banyak orang.
                         </p>
-                        <div className="properties__footer d-flex justify-content-between align-items-center">
-                          <div className="restaurant-name">
-                            <div className="rating">
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star-half" />
-                            </div>
-                            <p>
-                              <span>(4.5)</span> based on 120
-                            </p>
-                          </div>
-                          <div className="price">
-                            <span>$135</span>
-                          </div>
-                        </div>
+                        
                         <a href="#" className="border-btn border-btn2">
                           Jelajahi Lebih Lanjut
                         </a>
