@@ -22,8 +22,7 @@ function Index() {
                           <br /> platform
                         </h1>
                         <p data-animation="fadeInLeft" data-delay="0.4s">
-                          Build skills with courses, certificates, and degrees
-                          online from world-class universities and companies
+                        Sumber utama pengetahuan, inspirasi, dan menghubungkan pecinta kopi di seluruh dunia, menjembatani perjalanan mereka dalam menjelajahi dunia kopi yang kaya.
                         </p>
                         <a
                           href="register.html"
@@ -31,7 +30,7 @@ function Index() {
                           data-animation="fadeInLeft"
                           data-delay="0.7s"
                         >
-                          Join for Free
+                         Gabung Gratis
                         </a>
                       </div>
                     </div>
@@ -51,8 +50,7 @@ function Index() {
                     <div className="features-caption">
                       <h3>Edukasi</h3>
                       <p>
-                        Mendapatkan informasi terkini dan berguna dalam
-                        perjalanan mereka untuk memahami dunia kopi lebih baik.
+                      Pelatihan intensif dari para ahli industri kopi.
                       </p>
                     </div>
                   </div>
@@ -65,8 +63,7 @@ function Index() {
                     <div className="features-caption">
                       <h3>Pelatihan Barista</h3>
                       <p>
-                        Belajar dari para ahli industri kopi dalam pelatihan
-                        intensif kami lebih baik.
+                      Pelatihan intensif dari para ahli industri kopi.
                       </p>
                     </div>
                   </div>
@@ -77,10 +74,9 @@ function Index() {
                       <img src="assets/img/icon/icon3.svg" alt="" />
                     </div>
                     <div className="features-caption">
-                      <h3>Rekomendasi & Resep Kreatif</h3>
+                      <h3>Rekomendasi </h3>
                       <p>
-                        Temukan keajaiban resep kopi di coffee space dengan
-                        rekomendasi kami untuk resep kopi kreatif.{" "}
+                      Coffee space merekomendasi resep kopi kreatif.
                       </p>
                     </div>
                   </div>
@@ -121,23 +117,7 @@ function Index() {
                           ingin yang alami bisa menambahkan madu. Ternyata,
                           racikan kopi dan madu lebih menyehatkan.
                         </p>
-                        <div className="properties__footer d-flex justify-content-between align-items-center">
-                          <div className="restaurant-name">
-                            <div className="rating">
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star-half" />
-                            </div>
-                            <p>
-                              <span>(4.5)</span> based on 120
-                            </p>
-                          </div>
-                          <div className="price">
-                            <span>$135</span>
-                          </div>
-                        </div>
+                       
                         <a href="#" className="border-btn border-btn2">
                           Jelajahi Lebih Lanjut
                         </a>
@@ -168,23 +148,7 @@ function Index() {
                           racikan kopi. Racikan kopi ini ada yang dicampur
                           dengan jamur sampai mentega tawar.
                         </p>
-                        <div className="properties__footer d-flex justify-content-between align-items-center">
-                          <div className="restaurant-name">
-                            <div className="rating">
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star-half" />
-                            </div>
-                            <p>
-                              <span>(4.5)</span> based on 120
-                            </p>
-                          </div>
-                          <div className="price">
-                            <span>$135</span>
-                          </div>
-                        </div>
+                      
                         <a href="#" className="border-btn border-btn2">
                           Jelajahi Lebih Lanjut
                         </a>
@@ -213,23 +177,7 @@ function Index() {
                           kesehatan. Tak heran jika rutinitas yang satu ini
                           digemari banyak orang.
                         </p>
-                        <div className="properties__footer d-flex justify-content-between align-items-center">
-                          <div className="restaurant-name">
-                            <div className="rating">
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star" />
-                              <i className="fas fa-star-half" />
-                            </div>
-                            <p>
-                              <span>(4.5)</span> based on 120
-                            </p>
-                          </div>
-                          <div className="price">
-                            <span>$135</span>
-                          </div>
-                        </div>
+                        
                         <a href="#" className="border-btn border-btn2">
                           Jelajahi Lebih Lanjut
                         </a>
@@ -238,27 +186,21 @@ function Index() {
                   </div>
                 </div>
               </div>
-              <div className="row justify-content-center">
-                <div className="col-xl-7 col-lg-8">
-                  <div className="section-tittle text-center mt-40">
-                    <a href="#" className="border-btn">
-                      Load More
-                    </a>
-                  </div>
-                </div>
-              </div>
+           
             </div>
           </div>
         </main>
         <footer>
           <div className="footer-wrappper footer-bg">
+            {/* Footer Start*/}
             <div className="footer-area footer-padding">
               <div className="container">
                 <div className="row justify-content-between">
                   <div className="col-xl-4 col-lg-5 col-md-4 col-sm-6">
                     <div className="single-footer-caption mb-50">
                       <div className="single-footer-caption mb-30">
-                        <div className="footer-logo mb-25">
+                        {/* logo */}
+                        <div className="footer-logo mb-26 text-left">
                           <a href="index.html">
                             <img
                               src="assets/img/logo/logo2_footer.png"
@@ -267,102 +209,54 @@ function Index() {
                           </a>
                         </div>
                         <div className="footer-tittle">
-                          <div className="footer-pera">
+                          <div className="footer-pera text-left">
                             <p>
-                              The automated process starts as soon as your
-                              clothes go into the machine.
+              Menyediakan informasi mendalam tentang dunia kopi, termasuk sejarah kopi, berbagai jenis biji kopi, teknik pemanggangan, dan proses penyeduhan.
                             </p>
                           </div>
                         </div>
-                        <div className="footer-social">
-                          <a href="#">
-                            <i className="fab fa-twitter" />
-                          </a>
-                          <a href="https://bit.ly/sai4ull">
-                            <i className="fab fa-facebook-f" />
-                          </a>
-                          <a href="#">
-                            <i className="fab fa-pinterest-p" />
-                          </a>
-                        </div>
+                        
                       </div>
                     </div>
                   </div>
                   <div className="col-xl-2 col-lg-3 col-md-4 col-sm-5">
                     <div className="single-footer-caption mb-50">
                       <div className="footer-tittle">
-                        <h4>Our solutions</h4>
+                        <h4>Hubungi Kami</h4>
                         <ul>
                           <li>
-                            <a href="#">Design &amp; creatives</a>
-                          </li>
-                          <li>
-                            <a href="#">Telecommunication</a>
-                          </li>
-                          <li>
-                            <a href="#">Restaurant</a>
-                          </li>
-                          <li>
-                            <a href="#">Programing</a>
-                          </li>
-                          <li>
-                            <a href="#">Architecture</a>
+                            <a href="#">Coffeespace2023@gmail.com 0210-1234567</a>
                           </li>
                         </ul>
                       </div>
                     </div>
                   </div>
-                  <div className="col-xl-2 col-lg-4 col-md-4 col-sm-6">
+                  <div className="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                     <div className="single-footer-caption mb-50">
                       <div className="footer-tittle">
-                        <h4>Support</h4>
-                        <ul>
-                          <li>
-                            <a href="#">Design &amp; creatives</a>
-                          </li>
-                          <li>
-                            <a href="#">Telecommunication</a>
-                          </li>
-                          <li>
-                            <a href="#">Restaurant</a>
-                          </li>
-                          <li>
-                            <a href="#">Programing</a>
-                          </li>
-                          <li>
-                            <a href="#">Architecture</a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="col-xl-2 col-lg-3 col-md-4 col-sm-6">
-                    <div className="single-footer-caption mb-50">
-                      <div className="footer-tittle">
-                        <h4>Company</h4>
-                        <ul>
-                          <li>
-                            <a href="#">Design &amp; creatives</a>
-                          </li>
-                          <li>
-                            <a href="#">Telecommunication</a>
-                          </li>
-                          <li>
-                            <a href="#">Restaurant</a>
-                          </li>
-                          <li>
-                            <a href="#">Programing</a>
-                          </li>
-                          <li>
-                            <a href="#">Architecture</a>
-                          </li>
-                        </ul>
+                        <h4>Media Sosial</h4>
+                         {/* social */}
+                         <div className="footer-social">
+                          <a href="#">
+                            <i className="fab fa-twitter" />
+                          </a>
+                          <a href="#">
+                            <i className="fab fa-whatsapp" />
+                          </a>
+                          <a href="#">
+                            <i className="fab fa-youtube" />
+                          </a>
+                          <a href="#">
+                            <i className="fab fa-instagram" />
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
+            {/* footer-bottom area */}
             <div className="footer-bottom-area">
               <div className="container">
                 <div className="footer-border">
@@ -370,12 +264,10 @@ function Index() {
                     <div className="col-xl-12 ">
                       <div className="footer-copy-right text-center">
                         <p>
-                          Copyright © All rights reserved | This template is
-                          made with{" "}
-                          <i className="fa fa-heart" aria-hidden="true" /> by{" "}
-                          <a href="https://colorlib.com" target="_blank">
-                            Colorlib
-                          </a>
+                          {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+                          © 2023 Coffee Space. All Rights Reserved.{" "}
+                          
+                          {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                         </p>
                       </div>
                     </div>
@@ -383,6 +275,7 @@ function Index() {
                 </div>
               </div>
             </div>
+            {/* Footer End*/}
           </div>
         </footer>
       </>
