@@ -53,13 +53,14 @@ function SeduhKopi4() {
                         <div className="feature-img">
                           <img
                             className="img-fluid"
-                            src="assets/img/blog/seduhKopi (4).jpeg"
+                            src="assets/img/Foto Kopi/kopi gayo aceh.jpeg"
                             alt=""
                           />
                         </div>
                         <div className="blog_details">
                           <h2 style={{ color: "#2d2d2d" }}>
-                            “Kopi Sehat? Fakta dan Mitos Seputar Manfaat Kesehatan Kopi”
+                            Mengenal Budaya Kopi: Sejarah, Varietas, dan Cara
+                            Menikmati Kopi yang Benar
                           </h2>
                           <ul className="blog-info-link mt-3 mb-4">
                             <li>
@@ -75,28 +76,58 @@ function SeduhKopi4() {
                             </li>
                           </ul>
                           <p className="excert">
-                          Isi minuman yang sangat digemari ini sering kali dituduh memiliki 
-                          dampak buruk pada kesehatan, namun juga dianggap memiliki manfaat 
-                          yang mengagumkan. Mari kita perjelas fakta dari mitos seputar kesehatan kopi.
+                            Kopi merupakan salah satu minuman yang disukai oleh
+                            banyak orang. Bahkan pada tahun 2022 lalu pernah
+                            dilakukan survei mengenai jenis minuman rasa yang
+                            dikonsumsi oleh masyarakat Indonesia, dan hasilnya
+                            menunjukkan bahwa kopi menempati peringkat teratas
+                            minuman yang paling sering dikonsumsi.
                           </p>
                           <p></p>
                           <div className="quote-wrapper">
                             <div className="quotes">
-                            Mitos: Kopi Membahayakan Jantung, Mengganggu Tidur, Menyebabkan Dehidrasi. 
-                            Fakta: Secangkir kopi dalam batas wajar tidak meningkatkan risiko penyakit 
-                            jantung, Konsumsi kafein berlebihan dapat mengganggu tidur, tapi dalam 
-                            jumlah moderat, efeknya minim, Konsumsi kopi yang bijak, sekitar 3-4 cangkir sehari, 
-                            umumnya dianggap aman bagi kebanyakan orang dewasa.
+                              Mitos: Kopi Membahayakan Jantung, Mengganggu
+                              Tidur, Menyebabkan Dehidrasi. Fakta: Secangkir
+                              kopi dalam batas wajar tidak meningkatkan risiko
+                              penyakit jantung, Konsumsi kafein berlebihan dapat
+                              mengganggu tidur, tapi dalam jumlah moderat,
+                              efeknya minim, Konsumsi kopi yang bijak, sekitar
+                              3-4 cangkir sehari, umumnya dianggap aman bagi
+                              kebanyakan orang dewasa.
                             </div>
                           </div>
                           <p>
-                          Dalam sejumlah moderat, kopi dapat memberikan sejumlah manfaat kesehatan 
-                          yang signifikan. Meskipun terdapat mitos seputar dampak negatifnya, 
-                          penelitian menunjukkan bahwa kopi dapat menjadi bagian dari gaya hidup sehat. 
-                          Namun, penting untuk mengonsumsinya dengan bijak dan memperhatikan respon 
-                          tubuh masing-masing individu. Sebelum membuat keputusan tentang konsumsi kopi,
-                           konsultasikan dengan profesional kesehatan untuk memastikan sesuai dengan
-                            kebutuhan dan kondisi kesehatan pribadi.
+                            Selain itu kebiasaan ngopi setiap pagi yang
+                            dilakukan oleh kebanyakan bapak-bapak juga
+                            menunjukkan bahwa kopi sangat digemari sebagai
+                            pendamping waktu santai sambil baca koran. Namun,
+                            tahukan kamu mengenai sejarah kopi, varietasnya, dan
+                            cara menikmati kopi yang benar? Kalau belum, yuk
+                            simak penjelasannya di bawah ini.
+                          </p>
+                          <p>
+                            Setiap negara memiliki budaya kopi yang unik, dengan
+                            tradisi dan kebiasaan yang berbeda dalam mengonsumsi
+                            kopi. Mulai dari tradisi minum kopi di kedai kopi
+                            klasik di Italia, hingga upacara minum kopi dengan
+                            seremoni khusus di Timur Tengah, setiap budaya
+                            memiliki ciri khasnya sendiri dalam menghargai dan
+                            menikmati kopi. Menjelajahi budaya kopi di berbagai
+                            negara memungkinkan kita untuk memahami betapa
+                            luasnya pengaruh kopi dalam kehidupan sehari-hari
+                            dan keunikan yang dimiliki setiap budaya tersebut.
+                          </p>
+                          <p>
+                            Kopi bukan hanya sekadar minuman, tetapi juga
+                            memiliki nilai historis, variasi yang memikat, dan
+                            memperkaya budaya di seluruh dunia. Dengan
+                            mengetahui sejarah kopi, variasi biji kopi yang
+                            tersedia, serta cara menikmati kopi dengan benar,
+                            kita dapat memperdalam pengalaman dan apresiasi kita
+                            terhadap minuman ini. Mari kita mulai menjelajahi
+                            dunia budaya kopi bersama-sama dan menciptakan
+                            pengalaman yang memuaskan dalam menikmati secangkir
+                            kopi yang sempurna.
                           </p>
                         </div>
                       </div>
@@ -185,12 +216,14 @@ function SeduhKopi4() {
                               <h4>Rendy Gede</h4>
                             </a>
                             <p>
-                            Menikmati secangkir kopi ternyata dapat memberikan lebih dari sekadar
-                             kenikmatan rasa. Dengan memahami fakta dan meluruskan mitos seputar
-                              manfaat kesehatan kopi, kita dapat merangkul pengalaman kopi dengan bijak. 
-                              Secangkir kopi pagi bukan hanya kebiasaan, tetapi juga momen yang bisa 
-                              mendukung kesehatan kita dengan benar. Jadi, mari nikmati kopi dengan
-                               pengetahuan dan kesenangan!
+                              Menikmati secangkir kopi ternyata dapat memberikan
+                              lebih dari sekadar kenikmatan rasa. Dengan
+                              memahami fakta dan meluruskan mitos seputar
+                              manfaat kesehatan kopi, kita dapat merangkul
+                              pengalaman kopi dengan bijak. Secangkir kopi pagi
+                              bukan hanya kebiasaan, tetapi juga momen yang bisa
+                              mendukung kesehatan kita dengan benar. Jadi, mari
+                              nikmati kopi dengan pengetahuan dan kesenangan!
                             </p>
                           </div>
                         </div>
@@ -205,10 +238,13 @@ function SeduhKopi4() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                Artikel ini sangat informatif dan menggali secara mendalam fakta dan mitos 
-                                seputar manfaat kesehatan kopi. Penjelasan yang jelas tentang kandungan 
-                                antioksidan dalam kopi dan dampak positifnya pada kesehatan jantung 
-                                memberikan pemahaman yang lebih baik tentang potensi kebaikan kopi.
+                                  Artikel ini sangat informatif dan menggali
+                                  secara mendalam fakta dan mitos seputar
+                                  manfaat kesehatan kopi. Penjelasan yang jelas
+                                  tentang kandungan antioksidan dalam kopi dan
+                                  dampak positifnya pada kesehatan jantung
+                                  memberikan pemahaman yang lebih baik tentang
+                                  potensi kebaikan kopi.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
@@ -240,9 +276,11 @@ function SeduhKopi4() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                Menyentuh aspek metabolisme dan dukungan pada penurunan berat badan 
-                                dengan konsumsi kopi memberikan informasi praktis bagi mereka yang
-                                 memiliki kepentingan dalam kesehatan dan kebugaran.
+                                  Menyentuh aspek metabolisme dan dukungan pada
+                                  penurunan berat badan dengan konsumsi kopi
+                                  memberikan informasi praktis bagi mereka yang
+                                  memiliki kepentingan dalam kesehatan dan
+                                  kebugaran.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
@@ -274,11 +312,15 @@ function SeduhKopi4() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                Penekanan pada manfaat kognitif dan perlindungan terhadap penyakit 
-                                seperti Parkinson dan Alzheimer memberikan konteks lebih lanjut 
-                                tentang potensi positif konsumsi kopi. Artikel ini juga merinci 
-                                bahwa respons terhadap kafein dapat bervariasi, menggarisbawahi 
-                                bahwa penting untuk memahami bahwa setiap individu dapat merespons kopi secara berbeda.
+                                  Penekanan pada manfaat kognitif dan
+                                  perlindungan terhadap penyakit seperti
+                                  Parkinson dan Alzheimer memberikan konteks
+                                  lebih lanjut tentang potensi positif konsumsi
+                                  kopi. Artikel ini juga merinci bahwa respons
+                                  terhadap kafein dapat bervariasi,
+                                  menggarisbawahi bahwa penting untuk memahami
+                                  bahwa setiap individu dapat merespons kopi
+                                  secara berbeda.
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
