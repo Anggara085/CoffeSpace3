@@ -53,19 +53,20 @@ function SeduhKopi3() {
                         <div className="feature-img">
                           <img
                             className="img-fluid"
-                            src="assets/img/blog/seduhKopi (3).jpeg"
+                            src="assets/img/Foto Kopi/moccachino.jpg"
                             alt=""
                           />
                         </div>
                         <div className="blog_details">
                           <h2 style={{ color: "#2d2d2d" }}>
-                            “Perjalanan Bijinya: Dari Perkebunan Hingga Ke Cangkir Anda”
+                            Cocok Diminum Pagi Hari, Ini 8 Khasiat Kopi Pahit
+                            Bagi Kesehatan
                           </h2>
                           <ul className="blog-info-link mt-3 mb-4">
                             <li>
                               <a href="#">
                                 <i className="fa fa-user" /> Kopi dan Kesehatan,
-                                Kopi Enak
+                                Berita dan Tren Kopi
                               </a>
                             </li>
                             <li>
@@ -75,25 +76,124 @@ function SeduhKopi3() {
                             </li>
                           </ul>
                           <p className="excert">
-                          Tentang kopi, pastinya! Kopi telah menjadi minuman yang sangat populer di seluruh dunia. 
-                          Biji kopi berasal dari pohon kopi yang tumbuh terutama di daerah tropis. Setelah dipetik, 
-                          biji kopi diolah melalui serangkaian proses, seperti pengeringan dan pemanggangan, sebelum 
-                          diseduh menjadi minuman yang dinikmati banyak orang. 
+                            Selain membangkitkan semangat di pagi hari, minum
+                            kopi pahit nyatanya menyimpan banyak khasiat untuk
+                            kesehatan. Tak heran jika rutinitas yang satu ini
+                            digemari banyak orang, terutama untuk mengawali
+                            aktivitas sehari-hari. Meski setiap orang memiliki
+                            seleranya masing-masing, banyak orang percaya kopi
+                            pahit memiliki lebih banyak khasiat daripada kopi
+                            yang telah dicampur gula ataupun susu.
                           </p>
-                          <p></p>
+                          <p>
+                            Bagi pengidap diabetes, kopi tanpa gula menjadi
+                            minuman yang cocok untuk diseruput. Selain itu, kopi
+                            pahit juga bisa menurunkan risiko penyakit jantung,
+                            parkinson, serta beberapa jenis kanker. Jika masih
+                            penasaran dengan segudang manfaat yang dimilikinya.
+                          </p>
                           <div className="quote-wrapper">
                             <div className="quotes">
-                            Kopi memiliki beragam cita rasa, mulai dari yang pahit hingga yang manis, tergantung pada 
-                            jenis biji, cara pemanggangan, dan metode penyeduhan yang digunakan. Bukan hanya sebagai
-                             minuman penyemangat, kopi juga menjadi bagian dari budaya dan ritual sosial di banyak 
-                             komunitas di seluruh dunia.
-
+                              Dilansir dari berbagai sumber berikut berikut
+                              berbagai khasiat kopi pahit untuk kesehatan. 1.
+                              Menjaga fungsi otak, 2. Lebih fokus, 3. Menurunkan
+                              berat badan, 4. Mengurangi resiko diabetes tipe 2,
+                              5. Meningkatkan performa saat berolahraga, 6.
+                              Menurunkan risiko kanker, 7. Mengurangi stres, dan
+                              8. Bikin panjang umur.
                             </div>
                           </div>
                           <p>
-                          Perjalanan biji kopi dimulai di perkebunan kopi di seluruh dunia. Biji kopi tumbuh di pohon
-                           kopi yang membutuhkan iklim khusus dan perawatan yang cermat. Pemetikan biji kopi dilakukan 
-                           secara manual atau mekanis, tergantung pada lokasi dan metode pertanian yang digunakan.
+                            <h2>1. Menjaga Fungsi otak </h2>
+                            Seiring bertambahnya usia, otak manusia akan
+                            mengalami penurunan fungsi. Kondisi ini dapat memicu
+                            beberapa penyakit yang berkaitan dengan fungsi otak,
+                            seperti demensia dan alzheimer. Meski begitu, kedua
+                            risiko tersebut nyatanya dapat dicegah dengan minum
+                            kopi pahit. Kandungan antioksidan dan anti radang di
+                            dalamnya bisa membantu mengurangi peradangan pada
+                            sel-sel otak. Tak hanya itu, kopi pahit juga
+                            membantu menurunkan gejala tremor atau gemetar pada
+                            pengidap penyakit parkinson.
+                          </p>
+                          <p>
+                            <h2> 2. Lebih fokus</h2>
+                            Kandungan kafein yang tersimpan dalam kopi,
+                            bertanggung jawab untuk mempengaruhi fungsi otak
+                            serta meningkatkan fokus seseorang. Tak heran jika
+                            banyak orang merasa lebih mudah berkonsentrasi
+                            setelah mengkonsumsi kopi pahit di pagi hari.
+                            Menurut Healthline, kafein dapat merangsang produksi
+                            hormon serotonin, dopamin, noradrenalin. Ketiga
+                            hormon ini yang membantu seseorang menjadi lebih
+                            fokus.
+                          </p>
+                          <p>
+                            <h2>3. Menurunkan berat badan</h2>
+                            Kafein dalam kopi pahit mampu memberikan energi yang
+                            sangat dibutuhkan oleh tubuh saat seseorang
+                            menjalani diet. Hal ini tentu sangat membantu
+                            seseorang menjalani aktivitas sehari-hari di tengah
+                            perjalannya menjalani penurunan berat badan.
+                          </p>
+                          <p>
+                            <h2>4. Mengurangi resiko diabetes tipe 2</h2>
+                            Menurut beberapa studi, kandungan kafein pada kopi
+                            dapat membantu menjaga kadar gula darah, sehingga
+                            bermanfaat untuk menurunkan risiko seseorang terkena
+                            diabetes tipe 2. Hal ini bisa terjadi karena kafein
+                            bisa meningkatkan kinerja sel beta dalam pankreas
+                            yang berfungsi untuk memproduksi hormon insulin guna
+                            mengatur kadar gula dalam darah.
+                          </p>
+                          <p>
+                            <h2>5. Meningkatkan performa saat berolahraga</h2>
+                            Menyeruput kopi sebelum beraktivitas fisik ternyata
+                            bermanfaat untuk meningkatkan performa dan
+                            efektivitas saat berolahraga. Pasalnya, kopi pahit
+                            meningkatkan kadar epinefrin dalam darah yang
+                            membuat tubuh lebih siap untuk melakukan aktivitas
+                            fisik yang intens. Ketika seseorang melakukan
+                            aktivitas fisik seperti olahraga, tentu membutuhkan
+                            banyak energi. Kopi pahit yang dapat memecah lemak
+                            yang disimpan dan melepaskannya ke dalam alirah
+                            darah dalam bentuk asam lemak bebas. Asam lemak
+                            bebas ini lah yang digunakan tubuh sebagai bahan
+                            bakar untuk melakukan aktivitas fisik yang menguras
+                            energi.
+                          </p>
+                          <p>
+                            <h2>6. Menurunkan risiko kanker</h2>
+                            Menurut beberapa penelitian, konsumsi kopi pahit
+                            bisa mengurangi risiko penyakit kanker tertentu
+                            seperti kanker payudara, hati, serta usus besar.
+                            Antioksidan pada kopi mampu mengurangi peradangan
+                            yang menjadi salah satu faktor utama di balik
+                            berkembangnya sel kanker atau tumor.
+                          </p>
+                          <p>
+                            <h2>7. Mengurangi stres</h2>
+                            Kopi juga mampu merangsang produksi hormon
+                            serotonin, dopamin, dan noradrenalin dalam tubuh.
+                            Ketiga hormon ini dapat membantu mengatasi mood yang
+                            rusak dan juga mengurangi stres.
+                          </p>
+                          <p>
+                            <h2>8. Bikin panjang umur</h2>
+                            Setiap orang pasti mendambakan hidup yang sehat
+                            serta berumur panjang. Impian tersebut ternyata bisa
+                            diraih dengan hanya meminum kopi pahit. Telah
+                            terbukti oleh beberapa penelitian, salah satunya
+                            dibuktikan oleh penelitian yang dilakukan terhadap
+                            1567 subjek. Hasilnya, minum kopi berkafein bisa
+                            menurunkan risiko kematian 12 hingga 18 tahun ke
+                            depan. Bahkan konsumsi secangkir kopi setiap harinya
+                            dapat menurunkan risiko kematian akibat penyakit
+                            kanker. Bukan hanya panjang umur, seseorang yang
+                            rutin mengkonsumsi kopi bisa terlihat lebih awet
+                            muda. Kondisi ini bisa ternyata karena senyawa
+                            antioksidan dalam kopi dapat melindungi tubuh dari
+                            radikal bebas yang memicu peradangan.
                           </p>
                         </div>
                       </div>
@@ -179,15 +279,17 @@ function SeduhKopi3() {
                           <img src="assets/img/blog/anonim.png" alt="" />
                           <div className="media-body text-left">
                             <a href="#">
-                              <h4>Rendy Gede</h4>
+                              <h4>Joko Anwar</h4>
                             </a>
                             <p>
-                            Artikel ini mengajak kita untuk menyadari bahwa secangkir kopi yang kita nikmati 
-                            setiap hari adalah hasil dari perjalanan luar biasa biji kopi. Dari perkebunan 
-                            yang subur hingga ke cangkir kita, setiap langkah dalam perjalanan ini memberikan
-                             kontribusi uniknya untuk menciptakan pengalaman kopi yang istimewa. 
-                             Mari hargai dan nikmati keindahan perjalanan biji kopi ini setiap kali kita 
-                             merasakannya dalam secangkir kopi kesayangan kita.
+                              Terima kasih atas dukungan dan tanggapan positif
+                              dari pembaca! Saya senang artikel ini memberikan
+                              wawasan baru tentang manfaat kesehatan dari kopi
+                              pahit. Jangan ragu untuk berbagi pengalaman Anda
+                              lebih lanjut atau bertanya jika ada hal yang ingin
+                              diketahui lebih lanjut. Semoga kita semua bisa
+                              menikmati secangkir kopi dengan manfaat kesehatan
+                              yang diberikan.
                             </p>
                           </div>
                         </div>
@@ -202,19 +304,19 @@ function SeduhKopi3() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                Artikel ini memberikan wawasan yang sangat menarik dan komprehensif tentang
-                                 perjalanan biji kopi, mulai dari awalnya di perkebunan hingga menjadi 
-                                 secangkir kopi yang kita nikmati. Penjelasan yang mendalam tentang setiap tahap, 
-                                 termasuk proses pengolahan, panggangan, dan distribusi, memberikan pemahaman yang 
-                                 lebih baik tentang kompleksitas industri kopi.
+                                  Artikel yang informatif! Saya baru menyadari
+                                  bahwa kopi pahit memiliki banyak manfaat bagi
+                                  kesehatan. Saya jadi lebih semangat untuk
+                                  menikmati secangkir kopi di pagi hari
+                                  sekarang. Terima kasih atas informasinya!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Rabiel Pratama</a>
+                                      <a href="#">Doni Akbar</a>
                                     </h5>
                                     <p className="date">
-                                      12 November 2023, 11:20 WIB{" "}
+                                      13 November 2023, 11:20 WIB{" "}
                                     </p>
                                   </div>
                                   <div className="reply-btn">
@@ -238,19 +340,21 @@ function SeduhKopi3() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                Pentingnya distribusi dan peran pengepakan dalam melindungi kualitas 
-                                biji kopi selama perjalanan mereka di seluruh dunia juga ditekankan dengan baik. 
-                                Artikel ini memberikan gambaran lengkap tentang bagaimana kopi mencapai 
-                                tangan konsumen, dari produsen hingga barista yang terampil yang menyajikan
-                                 kopi dengan seni mereka sendiri.
+                                  Saya selalu suka dengan kopi pahit, dan
+                                  sekarang tahu bahwa itu juga baik untuk
+                                  kesehatan membuat saya senang. Penjelasan
+                                  mengenai khasiatnya sangat jelas, terutama
+                                  yang terkait dengan peningkatan energi dan
+                                  perlindungan dari beberapa penyakit. Artikel
+                                  ini sangat membuka wawasan!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Dedy Nugroho</a>
+                                      <a href="#">Muhammad Rizky</a>
                                     </h5>
                                     <p className="date">
-                                      12 November 2023, 12:00 WIB{" "}
+                                      13 November 2023, 12:00 WIB{" "}
                                     </p>
                                   </div>
                                   <div className="reply-btn">
@@ -274,19 +378,21 @@ function SeduhKopi3() {
                               </div>
                               <div className="desc">
                                 <p className="comment">
-                                Pentingnya peran petani kopi dan proses pengolahan dalam membentuk karakter 
-                                dan cita rasa kopi ditekankan dengan baik. Artikel ini juga menggaris bawahi 
-                                peran barista dan keahlian mereka dalam memilih, menggiling, dan menyeduh kopi 
-                                sehingga pembaca dapat menghargai upaya yang terlibat dalam menyajikan 
-                                secangkir kopi yang berkualitas.
+                                  Sebagai pencinta kopi, saya sangat senang
+                                  mengetahui bahwa minuman favorit saya memiliki
+                                  manfaat kesehatan yang signifikan. Penjelasan
+                                  tentang kandungan antioksidan dan dampak
+                                  positifnya terhadap kesehatan jantung membuat
+                                  saya semakin yakin untuk tetap setia pada kopi
+                                  pahit. Artikel yang bagus!
                                 </p>
                                 <div className="d-flex justify-content-between">
                                   <div className="d-flex align-items-center">
                                     <h5>
-                                      <a href="#">Rini Sartika</a>
+                                      <a href="#">Rion Setiawan</a>
                                     </h5>
                                     <p className="date">
-                                      12 November 2023, 13:12 WIB{" "}
+                                      13 November 2023, 13:12 WIB{" "}
                                     </p>
                                   </div>
                                   <div className="reply-btn">
@@ -622,7 +728,7 @@ function SeduhKopi3() {
                         <div className="single-footer-caption mb-50">
                           <div className="single-footer-caption mb-30">
                             {/* logo */}
-                            <div className="footer-logo mb-26 text-left">
+                            <div className="footer-logo mb-25 text-left">
                               <a href="index.html">
                                 <img
                                   src="assets/img/logo/logo2_footer.png"
