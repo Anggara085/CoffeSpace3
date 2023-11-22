@@ -66,7 +66,7 @@ function SeduhKopi2() {
                             <li>
                               <a href="#">
                                 <i className="fa fa-user" /> Kopi dan Kesehatan,
-                                Tren Kopi
+                                Berita Tren Kopi
                               </a>
                             </li>
                             <li>
