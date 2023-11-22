@@ -137,7 +137,7 @@ function Galeri() {
                           <li>
                             <a href="#">
                               <i className="fa fa-user" /> Kopi dan Kesehatan,
-                              Tren Kopi
+                              Berita dan Tren Kopi
                             </a>
                           </li>
                           <li>
@@ -230,7 +230,8 @@ function Galeri() {
                         <ul className="blog-info-link">
                           <li>
                             <a href="#">
-                              <i className="fa fa-user" /> Sejarah Kopi
+                              <i className="fa fa-user" /> Sejarah Kopi,
+                              Lifestyle
                             </a>
                           </li>
                           <li>
