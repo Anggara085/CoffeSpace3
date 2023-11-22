@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import Menu from "./Menu";
 
-function SeduhKopi1() {
+function SeduhKopi2() {
   return (
     <Fragment>
       <Fragment>
@@ -729,4 +729,4 @@ function SeduhKopi1() {
   );
 }
 
-export default SeduhKopi1;
+export default SeduhKopi2;
