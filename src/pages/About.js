@@ -50,16 +50,25 @@ function About() {
               <h3 className="text-heading">Apa sih coffee space itu?</h3>
               <p className="sample-text">
                 Coffee Space adalah Sebuah platform untuk edukasi kopi
-                menyediakan berbagai informasi. Mulai dari pengenalan sejarah
-                kopi, ragam jenis kopi dan juga bisa jadi platform untuk
-                membantu individu maupun komunitas belajar tentang berbagai
-                aspek kopi, mulai dari budidaya hingga pembuatan kopi.
+                menyediakan berbagai informasi. Informasi ini dapat mencakup
+                profil rasa, karakteristik unik, dan perbedaan antara jenis kopi
+                satu dengan yang lainnya. Mulai dari pengenalan sejarah kopi,
+                ragam jenis kopi dan juga bisa jadi platform untuk membantu
+                individu maupun komunitas belajar tentang berbagai aspek kopi,
+                mulai dari budidaya hingga pembuatan kopi, selain itu memberikan
+                pemahaman kepada pengguna tentang asal-usul dan perjalanan kopi
+                dar masa ke masa. Dan juga Memberikan panduan lengkap tentang
+                berbagai jenis kopi yang ada di dunia, baik yang berasal dari
+                berbagai wilayah geografis maupun hasil dari metode pemrosesan
+                yang berbeda.
               </p>
             </div>
           </section>
+          <br></br>
+          <br></br>
 
           <div className="services-area services-area2 ">
-            <h3 className="text-heading">Mengapa Memilih Kami</h3>
+            <h3 className="text-heading">Mengapa harus memilih kami?</h3>
             <div className="container">
               <div className="row justify-content-sm-center">
                 <div className="col-lg-4 col-md-6 col-sm-8">
@@ -98,8 +107,11 @@ function About() {
               </div>
             </div>
           </div>
+          <br></br>
+          <br></br>
+
           <section className="section-top-border text-center">
-            <h3 className="mb-30">VISI DAN MISI</h3>
+            <h3 className="text-heading">VISI DAN MISI</h3>
             <div className="row justify-content-center">
               <div className="col-md-4">
                 <div className="single-defination">
@@ -124,6 +136,8 @@ function About() {
               </div>
             </div>
           </section>
+          <br></br>
+          <br></br>
           <>
             {/*? About Area-2 Start */}
             <section className="about-area2 fix pb-padding ">
@@ -163,8 +177,8 @@ function About() {
         </main>
         <footer>
           <div className="footer-wrappper footer-bg">
-           {/* Footer Start*/}
-           <div className="footer-area footer-padding">
+            {/* Footer Start*/}
+            <div className="footer-area footer-padding">
               <div className="container">
                 <div className="row justify-content-between">
                   <div className="col-xl-4 col-lg-5 col-md-4 col-sm-6">
@@ -266,5 +280,6 @@ function About() {
 }
 
 export default About;
+
 
 
