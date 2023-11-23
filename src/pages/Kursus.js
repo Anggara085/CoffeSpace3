@@ -63,7 +63,7 @@ function Kursus() {
                   Belanda. Bahkan, kata kopi yang saat ini dipakai pun merupakan
                   hasil adopsi dari bahasa belanda, yaitu koffie. Lantas,
                   bagaimana sejarah kopi dan ragam jenisnya di Indonesia? Simak
-                  informasinya berikut ini.
+                  informasinya berikut ini. 
                 </p>
                 <p>
                   Sejarah kopi di Indonesia dimulai sejak tahun 1696 saat
@@ -102,7 +102,7 @@ function Kursus() {
                         hingga saat ini, yaitu Arabika, Robusta, dan Liberika.
                       </p>
                       <p>
-                        1. Kopi Arabika (Coffea arabica) Sejarah kopi arabika
+                        <h3>1. Kopi Arabika (Coffea arabica)</h3> Sejarah kopi arabika
                         pertama kali ditemukan di Ethiopia oleh bangsa Arab.
                         Setelah itu, kopi pun disebarkan ke seluruh dunia dengan
                         nama arabika karena peran bangsa Arab dalam penemuannya.
@@ -112,7 +112,7 @@ function Kursus() {
                         terlalu kental dan rasanya yang asam.
                       </p>
                       <p>
-                        2. Kopi Robusta (Coffea canephora var. robusta) Kopi
+                        <h3>2. Kopi Robusta (Coffea canephora var. robusta)</h3> Kopi
                         robusta adalah salah satu jenis kopi dari varietas
                         Coffea canephora. Kopi ini memiliki rasa yang kuat dan
                         lebih pahit dari arabika. Oleh karena itu, robusta lebih
@@ -121,7 +121,7 @@ function Kursus() {
                         dijadikan bahan baku untuk pembuatan kopi instan.
                       </p>
                       <p className="sample-text">
-                        3. Kopi Liberika (Coffea liberica) Ragam kopi yang
+                        <h3>3. Kopi Liberika (Coffea liberica)</h3> Ragam kopi yang
                         terakhir adalah liberika. Jenis kopi ini pertama kali
                         ditemukan di Liberia dan merupakan tumbuhan liar di
                         daerah sekitar Afrika. Produksi kopi jenis ini cukup
@@ -150,7 +150,7 @@ function Kursus() {
               <div className="section-top-border text-left">
                 <h3 className="text-heading">Rekomendasi</h3>
                 <h3 className="mb-30">Kopi Sehat Yang Enggak Ribet!!</h3>
-                <p>Iced Vanilla Latte</p>
+                <p><h3>Iced Vanilla Latte</h3></p>
                 <p className="sample-text">
                   Resep kopi sehat yang dingin ini hanya membutuhkan tiga bahan
                   dan kamu bisa menyesuaikan kalorinya dengan menggunakan susu
@@ -160,7 +160,7 @@ function Kursus() {
                   vanila yang tidak ditambahi gula. Jadi cukup sediakan: bubuk
                   kopi, sirop vanila, dan susu dengan tambahan es batu.
                 </p>
-                <p>Frozen Mochaccino</p>
+                <p><h3>Frozen Mochaccino</h3></p>
                 <p className="sample-text">
                   Menjaga kalorimu dengan membuat es kopi di rumah itu gampang
                   banget. Kamu cukup menggunakan kopi yang kamu sukai dan
@@ -169,7 +169,7 @@ function Kursus() {
                   dimaniskan untuk memotong kalori dari kopi yang biasanya kamu
                   temukan di coffee shop
                 </p>
-                <p>Honey Cinnamon Iced Latte</p>
+                <p><h3>Honey Cinnamon Iced Latte</h3></p>
                 <p className="sample-text">
                   Buat yang sedang mencari resep kopi dengan cita rasa manis dan
                   ringan, kamu bisa menggunakan resep satu ini! Campuran madu
@@ -186,95 +186,95 @@ function Kursus() {
           </div>
 
           <div className="section-top-border">
-            <h3 className="text-heading">Image Gallery</h3>
+            <h1 className="text-heading">Rekomendasi Latte Art</h1>
             <div className="row gallery-item">
               <div className="container">
                 <div className="row justify-content-center">
                   <div className="col-md-4">
-                    <a href="assets/img/elements/g1.jpg" className="img-pop-up">
+                    <a href="assets/img/elements/ayam.jpg" className="img-pop-up">
                       <div
                         className="single-gallery-image"
                         style={{
-                          background: "url(assets/img/elements/g1.jpg)",
+                          background: "url(assets/img/elements/ayam.jpg)",
                         }}
                       />
                     </a>
                   </div>
                   <div className="col-md-4">
-                    <a href="assets/img/elements/g2.jpg" className="img-pop-up">
+                    <a href="assets/img/elements/angsa.jpg" className="img-pop-up">
                       <div
                         className="single-gallery-image"
                         style={{
-                          background: "url(assets/img/elements/g2.jpg)",
+                          background: "url(assets/img/elements/angsa.jpg)",
                         }}
                       />
                     </a>
                   </div>
                   <div className="col-md-4">
                     <a
-                      href="assets/img/elements/g3.jpeg"
+                      href="assets/img/elements/bunga.jpg"
                       className="img-pop-up"
                     >
                       <div
                         className="single-gallery-image"
                         style={{
-                          background: "url(assets/img/elements/g3.jpeg)",
+                          background: "url(assets/img/elements/bunga.jpg)",
                         }}
                       />
                     </a>
                   </div>
                   <div className="col-md-6">
-                    <a href="assets/img/elements/g4.jpg" className="img-pop-up">
+                    <a href="assets/img/elements/bungalove.jpg" className="img-pop-up">
                       <div
                         className="single-gallery-image"
                         style={{
-                          background: "url(assets/img/elements/g4.jpg)",
+                          background: "url(assets/img/elements/bungalove.jpg)",
                         }}
                       />
                     </a>
                   </div>
                   <div className="col-md-6">
                     <a
-                      href="assets/img/elements/g5.jpeg"
+                      href="assets/img/elements/bungatangkai.jpg"
                       className="img-pop-up"
                     >
                       <div
                         className="single-gallery-image"
                         style={{
-                          background: "url(assets/img/elements/g5.jpeg)",
+                          background: "url(assets/img/elements/bungatangkai.jpg)",
                         }}
                       />
                     </a>
                   </div>
                   <div className="col-md-4">
-                    <a href="assets/img/elements/g6.jpg" className="img-pop-up">
+                    <a href="assets/img/elements/daun.jpg" className="img-pop-up">
                       <div
                         className="single-gallery-image"
                         style={{
-                          background: "url(assets/img/elements/g6.jpg)",
+                          background: "url(assets/img/elements/daun.jpg)",
                         }}
                       />
                     </a>
                   </div>
                   <div className="col-md-4">
                     <a
-                      href="assets/img/elements/g7.jpeg"
+                      href="assets/img/elements/heart.jpg"
                       className="img-pop-up"
                     >
                       <div
                         className="single-gallery-image"
                         style={{
-                          background: "url(assets/img/elements/g7.jpeg)",
+                          background: "url(assets/img/elements/heart.jpg)",
                         }}
                       />
                     </a>
                   </div>
                   <div className="col-md-4">
-                    <a href="assets/img/elements/g8.jpg" className="img-pop-up">
+                    <a href="assets/img/elements/kelinci.jpg" className="img-pop-up">
                       <div
                         className="single-gallery-image"
                         style={{
-                          background: "url(assets/img/elements/g8.jpg)",
+                          background: "url(assets/img/elements/kelinci.jpg)",
                         }}
                       />
                     </a>
