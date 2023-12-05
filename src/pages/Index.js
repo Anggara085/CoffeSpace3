@@ -16,7 +16,7 @@ function Index() {
                 <div className="container">
                   <div className="row">
                     <div className="col-xl-6 col-lg-7 col-md-12">
-                      <div className="hero__caption">
+                      <div className="hero__caption text-left">
                         <h1 data-animation="fadeInLeft" data-delay="0.2s">
                           Coffe Space
                           <br /> platform
@@ -193,14 +193,14 @@ function Index() {
         <footer>
           <div className="footer-wrappper footer-bg">
             {/* Footer Start*/}
-            <div className="footer-area footer-padding">
+           <div className="footer-area footer-padding">
               <div className="container">
                 <div className="row justify-content-between">
                   <div className="col-xl-4 col-lg-5 col-md-4 col-sm-6">
                     <div className="single-footer-caption mb-50">
                       <div className="single-footer-caption mb-30">
                         {/* logo */}
-                        <div className="footer-logo mb-26 text-left">
+                        <div className="footer-logo mb-25 text-left">
                           <a href="index.html">
                             <img
                               src="assets/img/logo/logo2_footer.png"
@@ -211,11 +211,13 @@ function Index() {
                         <div className="footer-tittle">
                           <div className="footer-pera text-left">
                             <p>
-              Menyediakan informasi mendalam tentang dunia kopi, termasuk sejarah kopi, berbagai jenis biji kopi, teknik pemanggangan, dan proses penyeduhan.
+                              Menyediakan informasi mendalam tentang dunia kopi,
+                              termasuk sejarah kopi, berbagai jenis biji kopi,
+                              teknik pemanggangan, dan proses penyeduhan.
                             </p>
                           </div>
                         </div>
-                        
+                        {/* social */}
                       </div>
                     </div>
                   </div>
@@ -225,7 +227,9 @@ function Index() {
                         <h4>Hubungi Kami</h4>
                         <ul>
                           <li>
-                            <a href="#">Coffeespace2023@gmail.com 0210-1234567</a>
+                            <a href="#">
+                              Coffeespace2023@gmail.com 0210-1234567
+                            </a>
                           </li>
                         </ul>
                       </div>
@@ -235,8 +239,8 @@ function Index() {
                     <div className="single-footer-caption mb-50">
                       <div className="footer-tittle">
                         <h4>Media Sosial</h4>
-                         {/* social */}
-                         <div className="footer-social">
+                        {/* social */}
+                        <div className="footer-social">
                           <a href="#">
                             <i className="fab fa-twitter" />
                           </a>
@@ -266,7 +270,6 @@ function Index() {
                         <p>
                           {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                           © 2023 Coffee Space. All Rights Reserved.{" "}
-                          
                           {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                         </p>
                       </div>
@@ -284,5 +287,6 @@ function Index() {
 }
 
 export default Index;
+
 
 
