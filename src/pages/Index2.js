@@ -42,7 +42,7 @@
                       <div className="features-icon">
                         <img src="assets/img/icon/icon1.svg" alt="" />
                       </div>
-                      <div className="features-caption">
+                      <div className="features-caption text-left">
                         <h3>Edukasi</h3>
                         <p>
                         Pelatihan intensif dari para ahli industri kopi.
@@ -55,7 +55,7 @@
                       <div className="features-icon">
                         <img src="assets/img/icon/icon2.svg" alt="" />
                       </div>
-                      <div className="features-caption">
+                      <div className="features-caption text-left">
                         <h3>Pelatihan Barista</h3>
                         <p>
                         Pelatihan intensif dari para ahli industri kopi.
@@ -68,7 +68,7 @@
                       <div className="features-icon">
                         <img src="assets/img/icon/icon3.svg" alt="" />
                       </div>
-                      <div className="features-caption">
+                      <div className="features-caption text-left">
                         <h3>Rekomendasi </h3>
                         <p>
                         Coffee space merekomendasi resep kopi kreatif.
@@ -468,3 +468,4 @@
   }
 
   export default Index;
+
