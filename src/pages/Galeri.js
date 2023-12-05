@@ -66,7 +66,7 @@ function Galeri() {
                         <a className="d-inline-block" href="/SeduhKopi1">
                           <h2
                             className="blog-head text-left"
-                            style={{ color: "#2d2d2d" }}
+                            style={{ color: "#4255A4" }}
                           >
                             “Racikan Kopi Campur Madu Lebih Menyehatkan? Ini
                             Faktanya”
@@ -115,7 +115,7 @@ function Galeri() {
                         <a className="d-inline-block" href="/SeduhKopi2">
                           <h2
                             className="blog-head text-left"
-                            style={{ color: "#2d2d2d" }}
+                            style={{ color: "#4255A4" }}
                           >
                             Catat! Ini 5 Racikan Kopi Kekinian yang Disebut
                             Menyehatkan
@@ -164,7 +164,7 @@ function Galeri() {
                         <a className="d-inline-block" href="/SeduhKopi3">
                           <h2
                             className="blog-head text-left"
-                            style={{ color: "#2d2d2d" }}
+                            style={{ color: "#4255A4" }}
                           >
                             Cocok Diminum Pagi Hari, Ini 8 Khasiat Kopi Pahit
                             Bagi Kesehatan
@@ -213,7 +213,7 @@ function Galeri() {
                         <a className="d-inline-block" href="/SeduhKopi4">
                           <h2
                             className="blog-head text-left"
-                            style={{ color: "#2d2d2d" }}
+                            style={{ color: "#4255A4" }}
                           >
                             Mengenal Budaya Kopi: Sejarah, Varietas, dan Cara
                             Menikmati Kopi yang Benar
@@ -258,7 +258,7 @@ function Galeri() {
                         <a className="d-inline-block" href="/SeduhKopi4">
                           <h2
                             className="blog-head text-left"
-                            style={{ color: "#2d2d2d" }}
+                            style={{ color: "#4255A4" }}
                           >
                             Cerita Perjalanan dan Proses Pengolahan Kopi sampai
                             Siap Diseduh
@@ -369,7 +369,7 @@ function Galeri() {
                         />
                         <div className="media-body">
                           <a href="blog_details.html">
-                            <h3 style={{ color: "#2d2d2d" }}>
+                            <h3 style={{ color: "#4255A4" }}>
                               Tren Minuman Kopi yang Harus Anda Coba!
                             </h3>
                           </a>
@@ -383,7 +383,7 @@ function Galeri() {
                         />
                         <div className="media-body">
                           <a href="blog_details.html">
-                            <h3 style={{ color: "#2d2d2d" }}>
+                            <h3 style={{ color: "#4255A4" }}>
                               Inovasi Terkini dalam Dunia Kopi
                             </h3>
                           </a>
@@ -397,7 +397,7 @@ function Galeri() {
                         />
                         <div className="media-body">
                           <a href="blog_details.html">
-                            <h3 style={{ color: "#2d2d2d" }}>
+                            <h3 style={{ color: "#4255A4" }}>
                               Sensasi Rasa Kopi
                             </h3>
                           </a>
@@ -411,7 +411,7 @@ function Galeri() {
                         />
                         <div className="media-body">
                           <a href="blog_details.html">
-                            <h3 style={{ color: "#2d2d2d" }}>
+                            <h3 style={{ color: "#4255A4" }}>
                               Kreativitas dalam Secangkir Kopi
                             </h3>
                           </a>
